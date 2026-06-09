@@ -1,13 +1,11 @@
 # 冰冷宙域 / Cold Space
 ## 简介
-[![演示视频](ReadMe_Content/Cover.png)](https://github.com/Find-A-Name-Is-Hard/Cold-Space/releases/download/Video/TrailerForColdSpace2.mp4)
+<video src="https://github.com/user-attachments/assets/9ecc925f-6a57-4739-8eb3-0e8c229d9e7f" controls width="100%"></video>
 
 
 本游戏尝试将弹幕射击玩法与医学诊断主题主题结合，玩家扮演一名驾驶飞船的医生，需要尝试检测敌人弱点，推理出正确的弱点组合再发动最终一击。
 
 > 游戏链接：https://nvll-reference.itch.io/cold-space
-
-> 游戏PV：[点击观看演示视频](https://github.com/Find-A-Name-Is-Hard/Cold-Space/releases/download/Video/TrailerForColdSpace2.mp4)
 
 
 ## 操控方式
