@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72311aa7b0b7c0c4f9b97965fc9ad7ed, type: 3}
+  m_Name: fullEnergy
+  m_EditorClassIdentifier: 
+  shuffleOnCreate: 0
+  addBackRandomness: 0
+  repeat: 0
+  canBeCalledTwiceInARow: 1
+  priority: 0
+  interruptAtOrBelowPriority: -1
+  maxTimeRelevant: 1000000
+  minTimeBetweenRepetition: 10
+  actionName: 7
+  actionVariation: 4
+  linesToRead:
+  - {fileID: 4900000, guid: 0a4a1b4759e09624d890dab79b00c123, type: 3}
+  soundIds:
+  - _entity: {fileID: 11400000, guid: 65204312140223f45bd526bd3d84842a, type: 2}
+    ID: 1342177289
+    <DebugObject>k__BackingField: {fileID: 0}

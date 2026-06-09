@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cbca13fd8a86694e832799e611ab7fa, type: 3}
+  m_Name: Atk5 1
+  m_EditorClassIdentifier: 
+  enemyOriginBulletDatas: []
+  lineOriginBulletDatas:
+  - {fileID: 11400000, guid: 983110f29fd84c64eb75c311d6bb370e, type: 2}
+  enemyAimedBulletDatas: []
+  splineMovementData:
+  - {fileID: 5321580973984021137, guid: 31bc93d992c1e6746a6d452f35b1e5be, type: 3}
+  - {fileID: 1421501945900508295, guid: bb5c8bb862b43b743bec5995dc80cc2e, type: 3}
+  - {fileID: 220625807725901222, guid: 4b566e009dcf97a47ad2ec04264d3c7f, type: 3}
+  attackLength: 10

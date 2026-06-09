@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cbca13fd8a86694e832799e611ab7fa, type: 3}
+  m_Name: NormalAttack4
+  m_EditorClassIdentifier: 
+  enemyOriginBulletDatas: []
+  lineOriginBulletDatas: []
+  enemyAimedBulletDatas:
+  - {fileID: 11400000, guid: 23690c19245014d4a881dff33e05965e, type: 2}
+  - {fileID: 11400000, guid: 961a1308838766d488238ea2d3f9084d, type: 2}
+  - {fileID: 11400000, guid: 0cb5f8b6af7874941b99d765493c091c, type: 2}
+  splineMovementData: []
+  attackLength: 5
+  TimeBetweenAttack: 5

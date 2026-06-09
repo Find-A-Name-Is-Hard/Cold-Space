@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad670d1adcf8be84f891f82b894c08a5, type: 3}
+  m_Name: MagnetOneShot
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 1073741825
+  MulticlipsPlayMode: 2
+  _group: {fileID: 0}
+  Clips:
+  - AudioClip: {fileID: 8300000, guid: 949dc42918a3d9c4ca15f5c75617640b, type: 3}
+    Volume: 1
+    Delay: 0
+    StartPosition: 0
+    EndPosition: 4.589
+    FadeIn: 0
+    FadeOut: 0
+    Weight: 0
+  - AudioClip: {fileID: 8300000, guid: 949dc42918a3d9c4ca15f5c75617640b, type: 3}
+    Volume: 1
+    Delay: 0
+    StartPosition: 0.98
+    EndPosition: 3.607
+    FadeIn: 0
+    FadeOut: 0
+    Weight: 0
+  - AudioClip: {fileID: 8300000, guid: 949dc42918a3d9c4ca15f5c75617640b, type: 3}
+    Volume: 1
+    Delay: 0
+    StartPosition: 2.004
+    EndPosition: 2.631
+    FadeIn: 0
+    FadeOut: 0
+    Weight: 0
+  - AudioClip: {fileID: 8300000, guid: 949dc42918a3d9c4ca15f5c75617640b, type: 3}
+    Volume: 1
+    Delay: 0
+    StartPosition: 2.997
+    EndPosition: 1.655
+    FadeIn: 0
+    FadeOut: 0
+    Weight: 0
+  - AudioClip: {fileID: 8300000, guid: 949dc42918a3d9c4ca15f5c75617640b, type: 3}
+    Volume: 1
+    Delay: 0
+    StartPosition: 3.979
+    EndPosition: 0.544
+    FadeIn: 0
+    FadeOut: 0.165
+    Weight: 0
+  <AudioAsset>k__BackingField: {fileID: 11400000, guid: 6599df3af69b2664e84a0da1eaa05d20, type: 2}
+  <AudioType>k__BackingField: 8
+  <MasterVolume>k__BackingField: 0.8156886
+  <Loop>k__BackingField: 0
+  <SeamlessLoop>k__BackingField: 0
+  <TransitionTime>k__BackingField: 0
+  <SpatialSetting>k__BackingField: {fileID: 0}
+  <Priority>k__BackingField: 128
+  <Pitch>k__BackingField: 1
+  <PitchRandomRange>k__BackingField: 0
+  <VolumeRandomRange>k__BackingField: 0.36862284
+  <RandomFlags>k__BackingField: 2
+  SeamlessTransitionType: 0
+  TransitionTempo:
+    BPM: 0
+    Beats: 0
+  SnapToFullVolume: 0

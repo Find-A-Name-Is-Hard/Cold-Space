@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7499070067f192949a52b80e01d2dce6, type: 3}
+  m_Name: Aimed3
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 1563709441579392486, guid: d0b1f56e8302ca44abc4fe7cc011edd7, type: 3}
+  AimingSpeed: 15
+  Count: 3
+  AngleInterval: 15
+  AngleWaveRandomOffset: 0
+  AngleBulletRandomOffset: 0
+  SpawnOffset: 0.1
+  SpawnInterval: 0.2

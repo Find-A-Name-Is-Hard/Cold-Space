@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 1bdf6e6ce87fc884c8f40eddc1138f15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4270974254140268615
+    second: OnHitSpritesheet_0
+  - first:
+      213: 2339920290306606041
+    second: OnHitSpritesheet_1
+  - first:
+      213: -5406203235464366065
+    second: OnHitSpritesheet_2
+  - first:
+      213: -8464775516762935077
+    second: OnHitSpritesheet_3
+  - first:
+      213: 4024614322510930267
+    second: OnHitSpritesheet_4
+  - first:
+      213: -5285238602289236508
+    second: OnHitSpritesheet_5
+  - first:
+      213: 6965279173358834762
+    second: OnHitSpritesheet_6
+  - first:
+      213: 4967248540314343517
+    second: OnHitSpritesheet_7
+  - first:
+      213: 2075585565465650499
+    second: OnHitSpritesheet_8
+  - first:
+      213: -7885416955284492878
+    second: OnHitSpritesheet_9
+  - first:
+      213: 2458568528162207315
+    second: OnHitSpritesheet_10
+  - first:
+      213: -8711967071566206118
+    second: OnHitSpritesheet_11
+  - first:
+      213: 4556078869210425057
+    second: OnHitSpritesheet_12
+  - first:
+      213: 9193335451773140949
+    second: OnHitSpritesheet_13
+  - first:
+      213: -6752151962662848864
+    second: OnHitSpritesheet_14
+  - first:
+      213: -6795621590453628663
+    second: OnHitSpritesheet_15
+  - first:
+      213: -8404105450268680751
+    second: OnHitSpritesheet_16
+  - first:
+      213: -1587625335878891810
+    second: OnHitSpritesheet_17
+  - first:
+      213: 8896070636489147643
+    second: OnHitSpritesheet_18
+  - first:
+      213: 6843676724031396015
+    second: OnHitSpritesheet_19
+  - first:
+      213: -2178657944543870304
+    second: OnHitSpritesheet_20
+  - first:
+      213: -6020343638449117050
+    second: OnHitSpritesheet_21
+  - first:
+      213: -1316475767461164408
+    second: OnHitSpritesheet_22
+  - first:
+      213: -8614714960166101523
+    second: OnHitSpritesheet_23
+  - first:
+      213: -4850111622338404501
+    second: OnHitSpritesheet_24
+  - first:
+      213: -8161906000415657473
+    second: OnHitSpritesheet_25
+  - first:
+      213: -1260278455023760997
+    second: OnHitSpritesheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OnHitSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2550
+        height: 3300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf51216b837ab4c0800000000000000
+      internalID: -4270974254140268615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnHitSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 0
+        width: 2550
+        height: 3300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3447a4b11197020800000000000000
+      internalID: 2339920290306606041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1aca3e75046222b48b5ecc9de1caa56a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OnHitSpritesheet_0: -4270974254140268615
+      OnHitSpritesheet_1: 2339920290306606041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

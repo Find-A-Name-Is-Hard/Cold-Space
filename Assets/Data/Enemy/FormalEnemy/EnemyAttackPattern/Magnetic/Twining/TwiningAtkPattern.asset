@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cbca13fd8a86694e832799e611ab7fa, type: 3}
+  m_Name: TwiningAtkPattern
+  m_EditorClassIdentifier: 
+  enemyOriginBulletDatas:
+  - {fileID: 11400000, guid: 79882d50fbbb62740a924589968f62a5, type: 2}
+  - {fileID: 11400000, guid: c133ee15c4583b3458a65a439d3fafbd, type: 2}
+  - {fileID: 11400000, guid: fb7eaa8fc8ddd0245a86f0f05a77be2c, type: 2}
+  - {fileID: 11400000, guid: 8250e0cc3255a554e9327a3ae6337e5f, type: 2}
+  - {fileID: 11400000, guid: 67f79cce16ca88148888faea7dd523ca, type: 2}
+  lineOriginBulletDatas: []
+  enemyAimedBulletDatas: []
+  splineMovementData: []
+  attackLength: 30
+  TimeBetweenAttack: 15

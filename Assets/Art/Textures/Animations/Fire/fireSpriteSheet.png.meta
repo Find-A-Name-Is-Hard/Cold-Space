@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 81aa7e1f5c9c6d747b3ccc3bb9ee8739
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5376254832663570957
+    second: fireShootyGame_Frame2-imageonline.co-merged_0
+  - first:
+      213: 885897891285083730
+    second: fireShootyGame_Frame2-imageonline.co-merged_1
+  - first:
+      213: -3675731895532854904
+    second: fireShootyGame_Frame2-imageonline.co-merged_2
+  - first:
+      213: -856875363145351081
+    second: fireShootyGame_Frame2-imageonline.co-merged_3
+  - first:
+      213: 660194717436763405
+    second: fireShootyGame_Frame2-imageonline.co-merged_4
+  - first:
+      213: -403551997017397843
+    second: fireShootyGame_Frame2-imageonline.co-merged_5
+  - first:
+      213: 340679617286836314
+    second: fireShootyGame_Frame2-imageonline.co-merged_6
+  - first:
+      213: 558312817758891814
+    second: fireShootyGame_Frame2-imageonline.co-merged_7
+  - first:
+      213: -8066886575186735220
+    second: fireShootyGame_Frame2-imageonline.co-merged_8
+  - first:
+      213: -5611863601620611713
+    second: fireShootyGame_Frame2-imageonline.co-merged_9
+  - first:
+      213: -5672461212297744876
+    second: fireShootyGame_Frame2-imageonline.co-merged_10
+  - first:
+      213: 8151273056958756417
+    second: fireShootyGame_Frame2-imageonline.co-merged_11
+  - first:
+      213: -1973973479515452607
+    second: fireShootyGame_Frame2-imageonline.co-merged_12
+  - first:
+      213: 8793034672850317238
+    second: fireShootyGame_Frame2-imageonline.co-merged_13
+  - first:
+      213: 7534941973331426482
+    second: fireShootyGame_Frame2-imageonline.co-merged_14
+  - first:
+      213: -3123798054933533457
+    second: fireShootyGame_Frame2-imageonline.co-merged_15
+  - first:
+      213: -1813036885632165387
+    second: fireShootyGame_Frame2-imageonline.co-merged_16
+  - first:
+      213: -8179501902673525887
+    second: fireShootyGame_Frame2-imageonline.co-merged_17
+  - first:
+      213: -2240876377903213329
+    second: fireShootyGame_Frame2-imageonline.co-merged_18
+  - first:
+      213: 6952639194283651562
+    second: fireShootyGame_Frame2-imageonline.co-merged_19
+  - first:
+      213: -8947161566701806474
+    second: fireShootyGame_Frame2-imageonline.co-merged_20
+  - first:
+      213: 7975967342011710343
+    second: fireShootyGame_Frame2-imageonline.co-merged_21
+  - first:
+      213: -8136389345551143860
+    second: fireShootyGame_Frame2-imageonline.co-merged_22
+  - first:
+      213: -5409665833461295149
+    second: fireShootyGame_Frame2-imageonline.co-merged_23
+  - first:
+      213: -5954539800047365403
+    second: fireShootyGame_Frame2-imageonline.co-merged_24
+  - first:
+      213: 2902406589725886678
+    second: fireShootyGame_Frame2-imageonline.co-merged_25
+  - first:
+      213: 593006761821338590
+    second: fireShootyGame_Frame2-imageonline.co-merged_26
+  - first:
+      213: -1505085996665841549
+    second: fireShootyGame_Frame2-imageonline.co-merged_27
+  - first:
+      213: -6412100811807685787
+    second: fireShootyGame_Frame2-imageonline.co-merged_28
+  - first:
+      213: 2113993584371568754
+    second: fireShootyGame_Frame2-imageonline.co-merged_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3fa3b4105764d4b87b1f4676915a2b
+      internalID: 89626484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a75d7e84892f8438bdca1a871ae4c6
+      internalID: -1381911368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e5dac41c0a2024f8a33dd65b452b0c
+      internalID: -600685092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41f3e6f9c0d8f5e41a08f085ec98511c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fireSpriteSheet_0: 89626484
+      fireSpriteSheet_1: -1381911368
+      fireSpriteSheet_2: -600685092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cbca13fd8a86694e832799e611ab7fa, type: 3}
+  m_Name: BigBangAttackPattern
+  m_EditorClassIdentifier: 
+  enemyOriginBulletDatas:
+  - {fileID: 11400000, guid: ec000a360d99ced49b0e1031c0f37e47, type: 2}
+  - {fileID: 11400000, guid: 1c60009370f333c4da6ce7ce55851e16, type: 2}
+  - {fileID: 11400000, guid: 77a9e5cf02a70114fac50b9df7159ed5, type: 2}
+  - {fileID: 11400000, guid: 42a4ff6e12873364a896a0674a31e27e, type: 2}
+  lineOriginBulletDatas: []
+  enemyAimedBulletDatas: []
+  splineMovementData: []
+  attackLength: 20
+  TimeBetweenAttack: 10

@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: 501790fce7ec9a94e94bdaaf3eac8dd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3293454885868338973
+    second: UiRedesign 1_0
+  - first:
+      213: 7002385244938853174
+    second: UiRedesign 1_1
+  - first:
+      213: -5515524966961239941
+    second: UiRedesign 1_2
+  - first:
+      213: 8085983270681992220
+    second: UiRedesign 1_3
+  - first:
+      213: -8890544986230564982
+    second: UiRedesign 1_4
+  - first:
+      213: -5738422321888177912
+    second: UiRedesign 1_5
+  - first:
+      213: -5182434683763548926
+    second: UiRedesign 1_6
+  - first:
+      213: 5197936498238455367
+    second: UiRedesign 1_7
+  - first:
+      213: 3389749005998484793
+    second: UiRedesign 1_8
+  - first:
+      213: 1205370785924155845
+    second: UiRedesign 1_9
+  - first:
+      213: 2859674703160586199
+    second: UiRedesign 1_10
+  - first:
+      213: -6596722696568654948
+    second: UiRedesign 1_11
+  - first:
+      213: -2050342196389544966
+    second: UiRedesign 1_12
+  - first:
+      213: -2527391404727770896
+    second: UiRedesign 1_13
+  - first:
+      213: 2974192737429360699
+    second: UiRedesign 1_14
+  - first:
+      213: 2300646480324225027
+    second: UiRedesign 1_15
+  - first:
+      213: 9203623405790494947
+    second: UiRedesign 1_16
+  - first:
+      213: -5346293465597969980
+    second: UiRedesign 1_17
+  - first:
+      213: -6337692939013516000
+    second: UiRedesign 1_18
+  - first:
+      213: -1386756998579660984
+    second: UiRedesign 1_19
+  - first:
+      213: 2118391444394799833
+    second: UiRedesign 1_20
+  - first:
+      213: -1432046258589601090
+    second: UiRedesign 1_21
+  - first:
+      213: -8221274943428407006
+    second: UiRedesign 1_22
+  - first:
+      213: 1753714359416927401
+    second: UiRedesign 1_23
+  - first:
+      213: 8024776681450964590
+    second: UiRedesign 1_24
+  - first:
+      213: -254442998672560066
+    second: UiRedesign 1_25
+  - first:
+      213: -4558555056600631353
+    second: UiRedesign 1_26
+  - first:
+      213: -5143765915127244853
+    second: UiRedesign 1_27
+  - first:
+      213: -2797779574742779173
+    second: UiRedesign 1_28
+  - first:
+      213: 8037795484906322717
+    second: UiRedesign 1_29
+  - first:
+      213: -8061828924975657864
+    second: UiRedesign 1_30
+  - first:
+      213: -3034860262741523161
+    second: UiRedesign 1_31
+  - first:
+      213: 7784416446697505282
+    second: UiRedesign 1_32
+  - first:
+      213: -3326135901944317937
+    second: UiRedesign 1_33
+  - first:
+      213: 6485040818513812966
+    second: UiRedesign 1_34
+  - first:
+      213: -7950294346892210888
+    second: UiRedesign 1_35
+  - first:
+      213: -938639008323631302
+    second: UiRedesign 1_36
+  - first:
+      213: -5697885992091490024
+    second: UiRedesign 1_37
+  - first:
+      213: 835427201418237990
+    second: UiRedesign 1_38
+  - first:
+      213: -2332273758312304213
+    second: UiRedesign 1_39
+  - first:
+      213: 8764069611187871010
+    second: UiRedesign 1_40
+  - first:
+      213: 9052743502884248485
+    second: UiRedesign 1_41
+  - first:
+      213: -1980875304549557914
+    second: UiRedesign 1_42
+  - first:
+      213: -8242537226258850509
+    second: UiRedesign 1_43
+  - first:
+      213: -3315804291906661254
+    second: UiRedesign 1_44
+  - first:
+      213: -8346041819129020311
+    second: UiRedesign 1_45
+  - first:
+      213: -3590726399866033003
+    second: UiRedesign 1_46
+  - first:
+      213: -3163473906261643796
+    second: UiRedesign 1_47
+  - first:
+      213: -2454441409000929073
+    second: UiRedesign 1_48
+  - first:
+      213: 7998282416687081583
+    second: UiRedesign 1_49
+  - first:
+      213: -7032470832890544870
+    second: UiRedesign 1_50
+  - first:
+      213: -8975583018607753765
+    second: UiRedesign 1_51
+  - first:
+      213: 8629461056151796809
+    second: UiRedesign 1_52
+  - first:
+      213: -2549299211182665557
+    second: UiRedesign 1_53
+  - first:
+      213: 1952660675864789190
+    second: UiRedesign 1_54
+  - first:
+      213: 4227942667946995713
+    second: UiRedesign 1_55
+  - first:
+      213: 8156871378099396164
+    second: UiRedesign 1_56
+  - first:
+      213: 7522703301776809268
+    second: UiRedesign 1_57
+  - first:
+      213: 3199115080705229808
+    second: UiRedesign 1_58
+  - first:
+      213: 682984175373585066
+    second: UiRedesign 1_59
+  - first:
+      213: -7964137329776161055
+    second: UiRedesign 1_60
+  - first:
+      213: -5870411558911835060
+    second: UiRedesign 1_61
+  - first:
+      213: -7611223991142908063
+    second: UiRedesign 1_62
+  - first:
+      213: -5530893394015695940
+    second: UiRedesign 1_63
+  - first:
+      213: -3325732689156572642
+    second: UiRedesign 1_64
+  - first:
+      213: 3778152600649649013
+    second: UiRedesign 1_65
+  - first:
+      213: -485784799822363046
+    second: UiRedesign 1_66
+  - first:
+      213: -1120924497263619695
+    second: UiRedesign 1_67
+  - first:
+      213: -8038203469876426150
+    second: UiRedesign 1_68
+  - first:
+      213: 3179337967934263983
+    second: UiRedesign 1_69
+  - first:
+      213: 1763083272692226870
+    second: UiRedesign 1_70
+  - first:
+      213: 1359333864471047692
+    second: UiRedesign 1_71
+  - first:
+      213: -6043368101449701273
+    second: UiRedesign 1_72
+  - first:
+      213: 4873704279002635229
+    second: UiRedesign 1_73
+  - first:
+      213: -4847339007118570606
+    second: UiRedesign 1_74
+  - first:
+      213: 1819656993389260919
+    second: UiRedesign 1_75
+  - first:
+      213: -4245533332193306804
+    second: UiRedesign 1_76
+  - first:
+      213: 3023726888081907947
+    second: UiRedesign 1_77
+  - first:
+      213: -886805180817999205
+    second: UiRedesign 1_78
+  - first:
+      213: 1213290353612219699
+    second: UiRedesign 1_79
+  - first:
+      213: 3724217921670998200
+    second: UiRedesign 1_80
+  - first:
+      213: 3579274444141366436
+    second: UiRedesign 1_81
+  - first:
+      213: -5274668551402559421
+    second: UiRedesign 1_82
+  - first:
+      213: 4119149093472428622
+    second: UiRedesign 1_83
+  - first:
+      213: 6387054179567175079
+    second: UiRedesign 1_84
+  - first:
+      213: 3857853859386709820
+    second: UiRedesign 1_85
+  - first:
+      213: -4056495427478162273
+    second: UiRedesign 1_86
+  - first:
+      213: 6241960316861813943
+    second: UiRedesign 1_87
+  - first:
+      213: -1008241615591800654
+    second: UiRedesign 1_88
+  - first:
+      213: -3739486825283525296
+    second: UiRedesign 1_89
+  - first:
+      213: -7918256336699500031
+    second: UiRedesign 1_90
+  - first:
+      213: -2137446964353914470
+    second: UiRedesign 1_91
+  - first:
+      213: -4618464637869886268
+    second: UiRedesign 1_92
+  - first:
+      213: 3947230433722008681
+    second: UiRedesign 1_93
+  - first:
+      213: -5424285852424455118
+    second: UiRedesign 1_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeftPanel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1671
+        width: 1350
+        height: 2424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e00b041b3c4b42d0800000000000000
+      internalID: -3293454885868338973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_1
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 3866
+        width: 737
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b5401b7487d2160800000000000000
+      internalID: 7002385244938853174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullScreenButton
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 3685
+        width: 219
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b44d88abb374a0800000000000000
+      internalID: -6596722696568654948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightPanel
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1648
+        width: 1272
+        height: 2400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbf434b2a8bb83e0800000000000000
+      internalID: -2050342196389544966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicButton
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 3767
+        width: 210
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f063d878e6ececd0800000000000000
+      internalID: -2527391404727770896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFXButton
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3730
+        width: 224
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3016086984764920800000000000000
+      internalID: 2974192737429360699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButton
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 3700
+        width: 162
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3086a75d8c98def10800000000000000
+      internalID: 2300646480324225027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart1
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3145
+        width: 312
+        height: 453
+      alignment: 9
+      pivot: {x: 0.59096897, y: 0.6372297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e00d9489b6d9bf70800000000000000
+      internalID: 9203623405790494947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_17
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 1726
+        width: 157
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c97a0e3b662ec5b0800000000000000
+      internalID: -5346293465597969980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicButtonHoverOver
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 3401
+        width: 273
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025199ab9ddfb08a0800000000000000
+      internalID: -6337692939013516000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SFXButtonHoverOver
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 3425
+        width: 259
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8475fdd6bdf31cce0800000000000000
+      internalID: -1386756998579660984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayButtonHoverOver
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 3414
+        width: 218
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f0628bc9066d10800000000000000
+      internalID: 2118391444394799833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullScreenButtonHoverOver
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3412
+        width: 246
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f6ded389502ce0800000000000000
+      internalID: -1432046258589601090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_22
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1895
+        width: 713
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22151244ff928ed80800000000000000
+      internalID: -8221274943428407006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExplosiveDisplay
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1346
+        width: 181
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a43c861be1765810800000000000000
+      internalID: 1753714359416927401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestCureWires
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 2687
+        width: 450
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6609bbefdbbd5f60800000000000000
+      internalID: 8024776681450964590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagneticDisplay
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1381
+        width: 137
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e307988d079087cf0800000000000000
+      internalID: -254442998672560066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireWires
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2703
+        width: 340
+        height: 647
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7324a0452ccb0c0800000000000000
+      internalID: -4558555056600631353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart0
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 2712
+        width: 305
+        height: 487
+      alignment: 9
+      pivot: {x: 0.57527936, y: 0.66841644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7141d272cad98b0800000000000000
+      internalID: -5143765915127244853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FullEnergy
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 335
+        width: 1275
+        height: 923
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdafc9fcc4a4c29d0800000000000000
+      internalID: -2797779574742779173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart3
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2613
+        width: 308
+        height: 462
+      alignment: 9
+      pivot: {x: 0.64214975, y: 0.6369008}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b741f486cfb8f60800000000000000
+      internalID: 8037795484906322717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_43
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 2496
+        width: 104
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d58e44010ac9d80800000000000000
+      internalID: -8242537226258850509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_44
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2164
+        width: 170
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74103c7095ebf1d0800000000000000
+      internalID: -3315804291906661254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_45
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2157
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960824a4f27ec2c80800000000000000
+      internalID: -8346041819129020311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_46
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2189
+        width: 141
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c2e522d5d2b2ec0800000000000000
+      internalID: -3590726399866033003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_47
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 2252
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedae093e351914d0800000000000000
+      internalID: -3163473906261643796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_48
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 2231
+        width: 90
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc88d7eea8210fdd0800000000000000
+      internalID: -2454441409000929073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_49
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 2261
+        width: 151
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e2e33b7b9ffe60800000000000000
+      internalID: 7998282416687081583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_54
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1915
+        width: 473
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08bcff98e391b10800000000000000
+      internalID: 1952660675864789190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyLockOverlay
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1444
+        width: 581
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9015cbc2066860800000000000000
+      internalID: 7522703301776809268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_58
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1699
+        width: 98
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3c70d573a856c20800000000000000
+      internalID: 3199115080705229808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_59
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1700
+        width: 98
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa0b582d727a7900800000000000000
+      internalID: 682984175373585066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_60
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 1711
+        width: 149
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee834c5b43b97190800000000000000
+      internalID: -7964137329776161055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightDisplay
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1324
+        width: 153
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ffef52b108f5690800000000000000
+      internalID: -7611223991142908063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireDisplay
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1382
+        width: 89
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbc32713c15e33b0800000000000000
+      internalID: -5530893394015695940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiscPanel1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1089
+        width: 1141
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a04b94880927090800000000000000
+      internalID: -8038203469876426150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiscPanel2
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 1129
+        width: 885
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbd0424830e2a340800000000000000
+      internalID: 4873704279002635229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541
+        width: 857
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8e75fc7741fa330800000000000000
+      internalID: 3724217921670998200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 762
+        width: 523
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0ea4a4232ca130800000000000000
+      internalID: 3579274444141366436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiscPanel3
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 618
+        width: 385
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94fa24a6ee64b7c0800000000000000
+      internalID: -4056495427478162273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiscPanel4
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 449
+        width: 379
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b412ac36d5ef9650800000000000000
+      internalID: 6241960316861813943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UiRedesign 1_88
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 706
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b082eea7910202f0800000000000000
+      internalID: -1008241615591800654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyBar
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 389
+        width: 440
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055e8b88b8caa1cc0800000000000000
+      internalID: -3739486825283525296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 35
+        width: 822
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ff0ca1eae7efb0800000000000000
+      internalID: -4618464637869886268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiscPanel5
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 23
+        width: 672
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c301e91c019b4b0800000000000000
+      internalID: -5424285852424455118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireText
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 2392
+        width: 365
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889357fdc0f8f2e47950993df8c9a415
+      internalID: -19198936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiftText
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2413
+        width: 452
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303930cfc7b60f34bbb42dde30e51d3a
+      internalID: 267821527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuQuickSettings
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 9
+        width: 945
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6ac8cd491371458198f0619c22eef
+      internalID: -11974225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7ff2c0c934d51f4dbd6b74ae81f35f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnergyBar: -3739486825283525296
+      EnergyLockOverlay: 7522703301776809268
+      ExplosiveDisplay: 1753714359416927401
+      FireDisplay: -5530893394015695940
+      FireText: -5515524966961239941
+      FireWires: -4558555056600631353
+      FullEnergy: -2797779574742779173
+      FullScreenButton: -6596722696568654948
+      FullScreenButtonHoverOver: -1432046258589601090
+      HealthBar: 3579274444141366436
+      Heart0: -5143765915127244853
+      Heart1: 9203623405790494947
+      Heart3: 8037795484906322717
+      LeftPanel: -3293454885868338973
+      LightDisplay: -7611223991142908063
+      MagneticDisplay: -254442998672560066
+      MainMenuQuickSettings: -11974225
+      Mask1: 3724217921670998200
+      Mask2: -4618464637869886268
+      MiscPanel1: -8038203469876426150
+      MiscPanel2: 4873704279002635229
+      MiscPanel3: -4056495427478162273
+      MiscPanel4: 6241960316861813943
+      MiscPanel5: -5424285852424455118
+      MusicButton: -2527391404727770896
+      MusicButtonHoverOver: -6337692939013516000
+      PlayButton: 2300646480324225027
+      PlayButtonHoverOver: 2118391444394799833
+      RightPanel: -2050342196389544966
+      SFXButton: 2974192737429360699
+      SFXButtonHoverOver: -1386756998579660984
+      ShiftText: 267821527
+      TestCureWires: 8024776681450964590
+      UiRedesign 1_1: 7002385244938853174
+      UiRedesign 1_10: 2859674703160586199
+      UiRedesign 1_17: -5346293465597969980
+      UiRedesign 1_22: -8221274943428407006
+      UiRedesign 1_3: 8085983270681992220
+      UiRedesign 1_30: -8061828924975657864
+      UiRedesign 1_31: -3034860262741523161
+      UiRedesign 1_32: 7784416446697505282
+      UiRedesign 1_33: -3326135901944317937
+      UiRedesign 1_34: 6485040818513812966
+      UiRedesign 1_35: -7950294346892210888
+      UiRedesign 1_36: -938639008323631302
+      UiRedesign 1_37: -5697885992091490024
+      UiRedesign 1_38: 835427201418237990
+      UiRedesign 1_39: -2332273758312304213
+      UiRedesign 1_4: -8890544986230564982
+      UiRedesign 1_40: 8764069611187871010
+      UiRedesign 1_41: 9052743502884248485
+      UiRedesign 1_42: -1980875304549557914
+      UiRedesign 1_43: -8242537226258850509
+      UiRedesign 1_44: -3315804291906661254
+      UiRedesign 1_45: -8346041819129020311
+      UiRedesign 1_46: -3590726399866033003
+      UiRedesign 1_47: -3163473906261643796
+      UiRedesign 1_48: -2454441409000929073
+      UiRedesign 1_49: 7998282416687081583
+      UiRedesign 1_5: -5738422321888177912
+      UiRedesign 1_50: -7032470832890544870
+      UiRedesign 1_51: -8975583018607753765
+      UiRedesign 1_52: 8629461056151796809
+      UiRedesign 1_53: -2549299211182665557
+      UiRedesign 1_54: 1952660675864789190
+      UiRedesign 1_55: 4227942667946995713
+      UiRedesign 1_56: 8156871378099396164
+      UiRedesign 1_58: 3199115080705229808
+      UiRedesign 1_59: 682984175373585066
+      UiRedesign 1_6: -5182434683763548926
+      UiRedesign 1_60: -7964137329776161055
+      UiRedesign 1_61: -5870411558911835060
+      UiRedesign 1_64: -3325732689156572642
+      UiRedesign 1_65: 3778152600649649013
+      UiRedesign 1_66: -485784799822363046
+      UiRedesign 1_67: -1120924497263619695
+      UiRedesign 1_69: 3179337967934263983
+      UiRedesign 1_7: 5197936498238455367
+      UiRedesign 1_70: 1763083272692226870
+      UiRedesign 1_71: 1359333864471047692
+      UiRedesign 1_72: -6043368101449701273
+      UiRedesign 1_74: -4847339007118570606
+      UiRedesign 1_75: 1819656993389260919
+      UiRedesign 1_76: -4245533332193306804
+      UiRedesign 1_77: 3023726888081907947
+      UiRedesign 1_78: -886805180817999205
+      UiRedesign 1_79: 1213290353612219699
+      UiRedesign 1_8: 3389749005998484793
+      UiRedesign 1_82: -5274668551402559421
+      UiRedesign 1_83: 4119149093472428622
+      UiRedesign 1_84: 6387054179567175079
+      UiRedesign 1_85: 3857853859386709820
+      UiRedesign 1_88: -1008241615591800654
+      UiRedesign 1_9: 1205370785924155845
+      UiRedesign 1_90: -7918256336699500031
+      UiRedesign 1_91: -2137446964353914470
+      UiRedesign 1_93: 3947230433722008681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

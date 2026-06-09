@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 385d834a28e6f9e489e8f4aef97c7f5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2325148375179522705
+    second: enemySheild_0
+  - first:
+      213: 3822859694299477945
+    second: enemySheild_1
+  - first:
+      213: -1888959035589212920
+    second: enemySheild_2
+  - first:
+      213: 5367150571706404325
+    second: enemySheild_3
+  - first:
+      213: -6137963937343823829
+    second: enemySheild_4
+  - first:
+      213: 6259935684238533991
+    second: enemySheild_5
+  - first:
+      213: 8912572561482647630
+    second: enemySheild_6
+  - first:
+      213: 9155701477142302827
+    second: enemySheild_7
+  - first:
+      213: -4557123754037893872
+    second: enemySheild_8
+  - first:
+      213: 1746727230153292695
+    second: enemySheild_9
+  - first:
+      213: -8969353090812738645
+    second: enemySheild_10
+  - first:
+      213: 9192102994493512180
+    second: enemySheild_11
+  - first:
+      213: 207187839429464422
+    second: enemySheild_12
+  - first:
+      213: -1555851409620313041
+    second: enemySheild_13
+  - first:
+      213: -8727881121402934138
+    second: enemySheild_14
+  - first:
+      213: -6019375813541080159
+    second: enemySheild_15
+  - first:
+      213: -9187943939095019593
+    second: enemySheild_16
+  - first:
+      213: 8958684445816002261
+    second: enemySheild_17
+  - first:
+      213: 4509252796018344875
+    second: enemySheild_18
+  - first:
+      213: -1493011728789068645
+    second: enemySheild_19
+  - first:
+      213: -9142510636536448558
+    second: enemySheild_20
+  - first:
+      213: -868747746270202457
+    second: enemySheild_21
+  - first:
+      213: -8160790920308645268
+    second: enemySheild_22
+  - first:
+      213: 8939596341154758718
+    second: enemySheild_23
+  - first:
+      213: 3051258753504082476
+    second: enemySheild_24
+  - first:
+      213: 5311680720910005294
+    second: enemySheild_25
+  - first:
+      213: 6737062086231424215
+    second: enemySheild_26
+  - first:
+      213: -37824414082544314
+    second: enemySheild_27
+  - first:
+      213: 2120232175446930532
+    second: enemySheild_28
+  - first:
+      213: -429317745211346136
+    second: enemySheild_29
+  - first:
+      213: -7224815124108664128
+    second: enemySheild_30
+  - first:
+      213: 6883019626480625151
+    second: enemySheild_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 4000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemySheild_0
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 75
+        width: 5928
+        height: 4849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d09573fd96bbfd0800000000000000
+      internalID: -2325148375179522705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_1
+      rect:
+        serializedVersion: 2
+        x: 6315
+        y: 1899
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f0e833a68d0530800000000000000
+      internalID: 3822859694299477945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_2
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 1798
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805c078e3c119c5e0800000000000000
+      internalID: -1888959035589212920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_3
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 1772
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed48923203fb7a40800000000000000
+      internalID: 5367150571706404325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_4
+      rect:
+        serializedVersion: 2
+        x: 6323
+        y: 1777
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20a67eb15291daa0800000000000000
+      internalID: -6137963937343823829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_5
+      rect:
+        serializedVersion: 2
+        x: 6301
+        y: 1746
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76564d79652cfd650800000000000000
+      internalID: 6259935684238533991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_6
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 1751
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48011a1681dfab70800000000000000
+      internalID: 8912572561482647630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 92
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6016960cf59f0f70800000000000000
+      internalID: 9155701477142302827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_8
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015a3132718d1c0c0800000000000000
+      internalID: -4557123754037893872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_9
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 100
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf9c8492f9d3810800000000000000
+      internalID: 1746727230153292695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_10
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 94
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba30e05b2e4768380800000000000000
+      internalID: -8969353090812738645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_11
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 98
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9179db8f8e09f70800000000000000
+      internalID: 9192102994493512180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_12
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 93
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66159f20e3410e200800000000000000
+      internalID: 207187839429464422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_13
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 92
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c5a4ed261886ae0800000000000000
+      internalID: -1555851409620313041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_14
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 95
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ca0f4cc5650e680800000000000000
+      internalID: -8727881121402934138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_15
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 95
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a35e40f691e67ca0800000000000000
+      internalID: -6019375813541080159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_16
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 92
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfb90ecaaddd7080800000000000000
+      internalID: -9187943939095019593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_17
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 92
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d61eafc904a35c70800000000000000
+      internalID: 8958684445816002261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_18
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 93
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba34c15e685149e30800000000000000
+      internalID: 4509252796018344875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_19
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 97
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9429043eb1c74be0800000000000000
+      internalID: -1493011728789068645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_20
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b302e3074f1180800000000000000
+      internalID: -9142510636536448558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_21
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 97
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5b420178691f3f0800000000000000
+      internalID: -868747746270202457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_22
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 100
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6225cc45eb0fbe80800000000000000
+      internalID: -8160790920308645268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_23
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 100
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3049ed1283df0c70800000000000000
+      internalID: 8939596341154758718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_24
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 84
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a79688baf385a20800000000000000
+      internalID: 3051258753504082476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_25
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24b1222971e6b940800000000000000
+      internalID: 5311680720910005294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_26
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc739fd54ade7d50800000000000000
+      internalID: 6737062086231424215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_27
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 92
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc5c255ee997ff0800000000000000
+      internalID: -37824414082544314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_28
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 88
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4643eda1ee39c6d10800000000000000
+      internalID: 2120232175446930532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_29
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 82
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823f7ec09c1ca0af0800000000000000
+      internalID: -429317745211346136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_30
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 80
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c222af5cec4cbb90800000000000000
+      internalID: -7224815124108664128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemySheild_31
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff56b6ae1e5658f50800000000000000
+      internalID: 6883019626480625151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemySheild_0: -2325148375179522705
+      enemySheild_1: 3822859694299477945
+      enemySheild_10: -8969353090812738645
+      enemySheild_11: 9192102994493512180
+      enemySheild_12: 207187839429464422
+      enemySheild_13: -1555851409620313041
+      enemySheild_14: -8727881121402934138
+      enemySheild_15: -6019375813541080159
+      enemySheild_16: -9187943939095019593
+      enemySheild_17: 8958684445816002261
+      enemySheild_18: 4509252796018344875
+      enemySheild_19: -1493011728789068645
+      enemySheild_2: -1888959035589212920
+      enemySheild_20: -9142510636536448558
+      enemySheild_21: -868747746270202457
+      enemySheild_22: -8160790920308645268
+      enemySheild_23: 8939596341154758718
+      enemySheild_24: 3051258753504082476
+      enemySheild_25: 5311680720910005294
+      enemySheild_26: 6737062086231424215
+      enemySheild_27: -37824414082544314
+      enemySheild_28: 2120232175446930532
+      enemySheild_29: -429317745211346136
+      enemySheild_3: 5367150571706404325
+      enemySheild_30: -7224815124108664128
+      enemySheild_31: 6883019626480625151
+      enemySheild_4: -6137963937343823829
+      enemySheild_5: 6259935684238533991
+      enemySheild_6: 8912572561482647630
+      enemySheild_7: 9155701477142302827
+      enemySheild_8: -4557123754037893872
+      enemySheild_9: 1746727230153292695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

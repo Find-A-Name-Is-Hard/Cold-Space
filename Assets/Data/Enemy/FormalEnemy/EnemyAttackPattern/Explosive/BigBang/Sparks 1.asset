@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4446a8b14480c9b4088d855a88e60172, type: 3}
+  m_Name: Sparks 1
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 1563709441579392486, guid: 5681db710ccd3eb4884bc4d99c27022a, type: 3}
+  InitRotation: 240
+  InitAngularVelocity: 90
+  MaxAngularVelocity: 90
+  AngularAcceleration: 0
+  Count: 3
+  AngleInterval: 25
+  AngleWaveRandomOffset: 0
+  AngleBulletRandomOffset: 0
+  SpawnOffset: 0.5
+  SpawnInterval: 0.25

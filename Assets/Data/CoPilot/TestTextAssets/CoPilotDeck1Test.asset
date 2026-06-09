@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e21879ca760aa44fbca45fad940609a, type: 3}
+  m_Name: CoPilotDeck1Test
+  m_EditorClassIdentifier: 
+  copilotName: 
+  copilotSprite: {fileID: 0}
+  actionResponses:
+  - {fileID: 11400000, guid: 5b26b672cdcfca44dbaea60252d2729c, type: 2}
+  - {fileID: 11400000, guid: c12add609038c3e4d88420e7a6a68fb1, type: 2}
+  - {fileID: 11400000, guid: f15f23e8fc3b5fe4aaa6d919aff5fce0, type: 2}
+  - {fileID: 11400000, guid: f661f6fe21af83541adcd917c348f80f, type: 2}
+  - {fileID: 11400000, guid: 7ade8086edaabe04582c418d8d657c00, type: 2}
+  - {fileID: 11400000, guid: ebb4e99a09a68c745ac78d705ea3ee4b, type: 2}
+  - {fileID: 11400000, guid: 221a2b9b1d793a5409a6b4f9030f66a1, type: 2}
+  - {fileID: 11400000, guid: ac6dd9c35635aca41a8057c87b589257, type: 2}
+  - {fileID: 11400000, guid: 74242f2484cb16b45b6e4e025bf42ecb, type: 2}
+  - {fileID: 11400000, guid: 96227aa5859a17747a907bf745b11d60, type: 2}
+  - {fileID: 11400000, guid: 5dd343a4290af624fb22065735e36340, type: 2}
+  - {fileID: 11400000, guid: 832f57b33fe9b6841a659b997ca40b73, type: 2}
+  - {fileID: 11400000, guid: 047a6be3c2ce34c4bad36e1f4cb55d04, type: 2}
+  - {fileID: 11400000, guid: a4b0190ab2a55104585089da2f82dd76, type: 2}
+  - {fileID: 11400000, guid: 58fb47407cdf3b74e9665c419be86d23, type: 2}
+  - {fileID: 11400000, guid: ab8b5ab455283504d8c6306c87e0c88d, type: 2}
+  - {fileID: 11400000, guid: c1e4a63d4d670dc43833da6ca0ce7a89, type: 2}

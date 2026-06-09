@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cbca13fd8a86694e832799e611ab7fa, type: 3}
+  m_Name: TrackingArrowAtkPattern
+  m_EditorClassIdentifier: 
+  enemyOriginBulletDatas: []
+  lineOriginBulletDatas: []
+  enemyAimedBulletDatas:
+  - {fileID: 11400000, guid: 56eb46469e762a5439cda54a02e04fca, type: 2}
+  - {fileID: 11400000, guid: 8274ba9c78e1f594aab3050f6f1c20ed, type: 2}
+  - {fileID: 11400000, guid: 716562a7c223e314f9590c51c8891eee, type: 2}
+  splineMovementData:
+  - {fileID: 4375302785850660169, guid: f28a01079674e3548af1e18d60c9f562, type: 3}
+  attackLength: 30
+  TimeBetweenAttack: 10

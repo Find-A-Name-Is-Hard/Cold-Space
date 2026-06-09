@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4461882938489370025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5254828214938476670}
+  - component: {fileID: 8089841602226090511}
+  - component: {fileID: 2283187344507215527}
+  m_Layer: 0
+  m_Name: MusicManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5254828214938476670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4461882938489370025}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 490.21176, y: 329.6081, z: 2.04359}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8089841602226090511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4461882938489370025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd4822d679cd74b40b437160f823573b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volumeDefault: 80
+  fadeTimeDefault: 0.5
+  highHealthPercentThreshold: 0.3
+  midEnergyPercentThreshold: 0.4
+  highEnergyPercentThreshold: 0.9
+  healthEnergyMusicArray:
+  - healthEnergy:
+      health: 2
+      energy: 0
+    soundId:
+      _entity: {fileID: 11400000, guid: 6af3c3471669e3a40851f5da0cfa6fec, type: 2}
+      ID: 268435456
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  - healthEnergy:
+      health: 2
+      energy: 1
+    soundId:
+      _entity: {fileID: 11400000, guid: 46f0dfa06b4ecd8459b0ff4ea1f95213, type: 2}
+      ID: 268435462
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  - healthEnergy:
+      health: 2
+      energy: 2
+    soundId:
+      _entity: {fileID: 11400000, guid: fdd358a5c2c845249b8213af4e95a892, type: 2}
+      ID: 268435458
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  - healthEnergy:
+      health: 0
+      energy: 0
+    soundId:
+      _entity: {fileID: 11400000, guid: 624174890c45019449241d3e90122ad7, type: 2}
+      ID: 268435463
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  - healthEnergy:
+      health: 0
+      energy: 1
+    soundId:
+      _entity: {fileID: 11400000, guid: f16b8cfe28fe3ad499b4e404ae4c82b4, type: 2}
+      ID: 268435464
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  - healthEnergy:
+      health: 0
+      energy: 2
+    soundId:
+      _entity: {fileID: 11400000, guid: 1d09cbe2bc381864cb1e83df81c42ed0, type: 2}
+      ID: 268435465
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  clueMusicArray:
+  - clueName: 0
+    soundId:
+      _entity: {fileID: 11400000, guid: 4a47b9b12a1095c44a31acef66a2ad41, type: 2}
+      ID: 268435468
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  - clueName: 1
+    soundId:
+      _entity: {fileID: 11400000, guid: 2a4c7072abf69884f9990223eda48eb6, type: 2}
+      ID: 268435466
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  - clueName: 2
+    soundId:
+      _entity: {fileID: 11400000, guid: 0e3f9a825c2a4ae469dc9771cb58f819, type: 2}
+      ID: 268435469
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  - clueName: 4
+    soundId:
+      _entity: {fileID: 11400000, guid: 3c80d16305e9e5b43a144dc5611c984d, type: 2}
+      ID: 268435467
+      <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  playerStatus:
+    health: 2
+    energy: 0
+  musicStatus:
+    health: 2
+    energy: 0
+  muted: 0
+--- !u!114 &2283187344507215527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4461882938489370025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5422d001970eb7040b80ead62ffaadac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerHitSound:
+    _entity: {fileID: 11400000, guid: d3f366ddf5264a44da1a7a811f1165a2, type: 2}
+    ID: 1073741824
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  enemyHitNormalSound:
+    _entity: {fileID: 11400000, guid: 8e527f412eead7846bc6124546c192bd, type: 2}
+    ID: 1073741833
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  enemyhitExplosiveSound:
+    _entity: {fileID: 11400000, guid: 6b98a091902a1e8448463ee956ac5324, type: 2}
+    ID: 1073741826
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  enemyHitMagneticSound:
+    _entity: {fileID: 11400000, guid: 949b2cb91c5c95d4f8432853dec8fab2, type: 2}
+    ID: 1073741825
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  EnemyHitFireSound:
+    _entity: {fileID: 11400000, guid: 023a65963a2e2e34d9a2f9256bddf54d, type: 2}
+    ID: 1073741827
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  EnemyHitLightSound:
+    _entity: {fileID: 11400000, guid: 0dabcf52131e4974d98de1fbb5d98bd3, type: 2}
+    ID: 1073741828
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  enemyHitLightTime: -1
+  enemyHitFireTime: -1
+  lightPlaying: 0
+  firePlaying: 0
+  attackFadeTime: 0.2
+  attackFireTime: -1
+  recentHit: 0
+  currentlyFiring: 0
+  playerFireSound:
+    _entity: {fileID: 11400000, guid: dc31416af9828524b9e22af4e61204a6, type: 2}
+    ID: 1073741830
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  playerFireSoundFireAttack:
+    _entity: {fileID: 11400000, guid: 38c80fb4f3a101d41a7a49a7c3413271, type: 2}
+    ID: 1073741832
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  playerFireSoundLightAttack:
+    _entity: {fileID: 11400000, guid: cef150b9a861e5b4a8eea8cd3db678a4, type: 2}
+    ID: 1073741831
+    <DebugObject>k__BackingField: {fileID: 4461882938489370025}
+  bossEntry:
+    _entity: {fileID: 0}
+    ID: 0
+    <DebugObject>k__BackingField: {fileID: 0}
+  bossDeath:
+    _entity: {fileID: 0}
+    ID: 0
+    <DebugObject>k__BackingField: {fileID: 0}
+  fullEnergy:
+    _entity: {fileID: 0}
+    ID: 0
+    <DebugObject>k__BackingField: {fileID: 0}
+  positiveResult:
+    _entity: {fileID: 0}
+    ID: 0
+    <DebugObject>k__BackingField: {fileID: 0}
+  mainMenu: 
+  muted: 0

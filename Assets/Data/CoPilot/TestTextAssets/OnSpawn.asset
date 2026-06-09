@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72311aa7b0b7c0c4f9b97965fc9ad7ed, type: 3}
+  m_Name: OnSpawn
+  m_EditorClassIdentifier: 
+  shuffleOnCreate: 1
+  addBackRandomness: 0
+  repeat: 0
+  canBeCalledTwiceInARow: 0
+  priority: 0
+  interruptAtOrBelowPriority: -1
+  maxTimeRelevant: 10
+  minTimeBetweenRepetition: 0
+  actionName: 3
+  actionVariation: 0
+  linesToRead:
+  - {fileID: 4900000, guid: 592608c03ad24824a9858cc6e78e266c, type: 3}
+  - {fileID: 4900000, guid: 6b6ee7304e9741c4b9d0f9da4efc5cde, type: 3}
+  - {fileID: 4900000, guid: 40cbcd8e8c083c34da1e15809c22ee1f, type: 3}
+  soundIds:
+  - _entity: {fileID: 11400000, guid: 022772f3532939d4d9a9e762c9d23167, type: 2}
+    ID: 1342177281
+    <DebugObject>k__BackingField: {fileID: 0}
+  - _entity: {fileID: 11400000, guid: 6317bf7fe30365e49a04813d1d05507d, type: 2}
+    ID: 1342177283
+    <DebugObject>k__BackingField: {fileID: 0}
+  - _entity: {fileID: 11400000, guid: 242fb449cd89df54c8bc5922dae6ad5e, type: 2}
+    ID: 1342177282
+    <DebugObject>k__BackingField: {fileID: 0}

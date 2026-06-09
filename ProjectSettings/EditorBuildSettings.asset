@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Level/Scenes/MainMenu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 0
+    path: Assets/Level/Scenes/BattleScene.unity
+    guid: d21488ba5cb084d4196c66e13a514dd8
+  - enabled: 0
+    path: Assets/Level/Scenes/VerticleSlice.unity
+    guid: 841fb700177632643821413406953db2
+  - enabled: 0
+    path: Assets/Level/Scenes/Michael2.unity
+    guid: f775d61ebb3522d4eae10c3eb20db873
+  - enabled: 0
+    path: Assets/Level/Scenes/Matteo3-Playtest.unity
+    guid: 1e3932205eb96394c9837c92f3197172
+  - enabled: 0
+    path: Assets/Telemetry/Scenes/TelemetryExample.unity
+    guid: 3ae624c024c9d48c8b40c836148fabf5
+  - enabled: 0
+    path: Assets/Level/Scenes/Michael5.unity
+    guid: ef2b6b672fe069d4ca26a68438c3e832
+  - enabled: 0
+    path: Assets/Level/Scenes/Michael4.unity
+    guid: 991f59a79059c444a8a191013b87b658
+  - enabled: 1
+    path: Assets/Level/Scenes/Matteo4.unity
+    guid: 5b275fd443e7809459106486850f332e
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

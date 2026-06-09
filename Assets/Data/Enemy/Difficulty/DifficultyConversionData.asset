@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5d46ee066aec5b47a070bdb4ad6f684, type: 3}
+  m_Name: DifficultyConversionData
+  m_EditorClassIdentifier: 
+  InitDifficultyEasy: 1
+  InitDifficultyMedium: 11
+  InitDifficultyHard: 21
+  MaxDifficulty: 31
+  DifficultyPerMinutePlayed: 1
+  DifficultyUpPerTestAttack: 4
+  DifficultyDownAfterTestAttacl: 2
+  DifficultyUpPerCureAttack: 6
+  DifficultyDownAfterCureAttack: 3
+  SpawnIntervalConversion:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -1.2863903
+      outSlope: -1.2863903
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.30466047
+      value: 0.6080877
+      inSlope: -0.67995024
+      outSlope: -0.67995024
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.23407693
+    - serializedVersion: 3
+      time: 1.1185851
+      value: 0.37844372
+      inSlope: -0.28214404
+      outSlope: -0.28214404
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  CountConversion:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 7.2803674
+      outSlope: 7.2803674
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.04967464
+    - serializedVersion: 3
+      time: 0.9959717
+      value: 2.0048218
+      inSlope: 0.5777349
+      outSlope: 0.5777349
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.13233942
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc283d99f0020f34a9084729085b6d5e, type: 3}
+  m_Name: Easy_PlayerAttributes
+  m_EditorClassIdentifier: 
+  playerAttributes:
+    MaxHP: 500
+    CurrentHP: 500
+    HPDangerousLine: 30
+    MaxEnergy: 200
+    HitEnergy: 1
+    DodgeEnergy: 2
+    CurrentEnergy: 0
+    Speed: 3
+    SlowDownRatio: 0.4
+  DefaultWeapon: {fileID: 2852066751095597212, guid: e9bf70a458aae794a832789aa4860805, type: 3}
+  FireWeapon: {fileID: 6066860004382980325, guid: dda87628325c87e4abf1b0921ab7cc2e, type: 3}
+  MegneticWeapon: {fileID: 4241460800072325409, guid: 55e9cd4c5a4ad0b4e9c78b5ab99fada1, type: 3}
+  LightWeapon: {fileID: 6066860004382980325, guid: c42241df6f5d3a8459cc8ce22f08acb0, type: 3}
+  ProjectileWeapon: {fileID: 6416619878945239070, guid: 03d6119ef1293914091772b8a82ba028, type: 3}
+  CureAtkWeapon:
+  - {fileID: 1581833562591635310, guid: 201f85a7de723454c9465974736cc2b0, type: 3}
+  - {fileID: 1581833562591635310, guid: c5b2995cff12dab49ba7de9c5940c5d3, type: 3}
+  - {fileID: 1581833562591635310, guid: dc15cbb0229e14d44ac5ad5950748097, type: 3}
+  - {fileID: 1581833562591635310, guid: a2809fad4a21c5244a7cc546975b7048, type: 3}
+  - {fileID: 1581833562591635310, guid: 519fa064158c6af48b4a68fd87a7308b, type: 3}
+  - {fileID: 1581833562591635310, guid: 71311f428c0f0044686df9e62c632f07, type: 3}

@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4596408372e64c34c8d9192ec4140dfa, type: 3}
+  m_Name: TestDeck
+  m_EditorClassIdentifier: 
+  attackDeck:
+  - attackPattern: {fileID: 11400000, guid: 5672df0e2d0c0a5488c3ef07cc52621b, type: 2}
+    attackChanceAtDifficulty:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.036575243
+        value: 0.40139255
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.97909546
+        value: 0.40135193
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - attackPattern: {fileID: 11400000, guid: 02d6ba2196c50ed4e8998af56a2c7855, type: 2}
+    attackChanceAtDifficulty:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.012917118
+        value: 0.5986009
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.9218445
+        value: 0.25617218
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - attackPattern: {fileID: 11400000, guid: 54ffd20ac8da57a4385dfeba4b155147, type: 2}
+    attackChanceAtDifficulty:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.0020508897
+        value: 0.061214037
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.97410583
+        value: 0.061927795
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - attackPattern: {fileID: 11400000, guid: 78f719ee7051c504f8a2ac2c5be0e838, type: 2}
+    attackChanceAtDifficulty:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.008902349
+        value: 0.59983647
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.96995544
+        value: 0.24948883
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - attackPattern: {fileID: 11400000, guid: cabc3f369413c874ab9eceaacb8a70e9, type: 2}
+    attackChanceAtDifficulty:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.061010376
+        value: 0.2999169
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.9842682
+        value: 0.29987335
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - attackPattern: {fileID: 11400000, guid: 664d152df36ac1043b5162304ff6a182, type: 2}
+    attackChanceAtDifficulty:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.82591164
+        value: 0.30292284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.8622024
+        value: 0.49975172
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - attackPattern: {fileID: 11400000, guid: 1402673203f65ec40a013560a7018df0, type: 2}
+    attackChanceAtDifficulty:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.82591164
+        value: 0.30292284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.8622024
+        value: 0.49975172
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  - attackPattern: {fileID: 11400000, guid: 77ce5fd9740ed6b4bae9936576986927, type: 2}
+    attackChanceAtDifficulty:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: -0.82591164
+        value: 0.30292284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.8622024
+        value: 0.49975172
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4

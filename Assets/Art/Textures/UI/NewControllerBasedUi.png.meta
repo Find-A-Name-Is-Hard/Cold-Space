@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: fec142d4cf04d1745821ce7b51e8d1eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -437036716516810099
+    second: NewControllerBasedUi_0
+  - first:
+      213: 3069817203771842549
+    second: NewControllerBasedUi_1
+  - first:
+      213: -404455326945997969
+    second: NewControllerBasedUi_2
+  - first:
+      213: -3418472348031806063
+    second: NewControllerBasedUi_3
+  - first:
+      213: -8453782221042506267
+    second: NewControllerBasedUi_4
+  - first:
+      213: -7770969501784975467
+    second: NewControllerBasedUi_5
+  - first:
+      213: 2813354684370668241
+    second: NewControllerBasedUi_6
+  - first:
+      213: -3090274891774818513
+    second: NewControllerBasedUi_7
+  - first:
+      213: -8423933919218701982
+    second: NewControllerBasedUi_8
+  - first:
+      213: 8511320253607999737
+    second: NewControllerBasedUi_9
+  - first:
+      213: 3209307421073309367
+    second: NewControllerBasedUi_10
+  - first:
+      213: -3909670715165185996
+    second: NewControllerBasedUi_11
+  - first:
+      213: 2041718421984269583
+    second: NewControllerBasedUi_12
+  - first:
+      213: -2359221043661913640
+    second: NewControllerBasedUi_13
+  - first:
+      213: 4240830668016541106
+    second: NewControllerBasedUi_14
+  - first:
+      213: 6338797066281356865
+    second: NewControllerBasedUi_15
+  - first:
+      213: 1901876695053558937
+    second: NewControllerBasedUi_16
+  - first:
+      213: 4286290613555782557
+    second: NewControllerBasedUi_17
+  - first:
+      213: -1995272342178402991
+    second: NewControllerBasedUi_18
+  - first:
+      213: 5456367270904238221
+    second: NewControllerBasedUi_19
+  - first:
+      213: 4313727279784840081
+    second: NewControllerBasedUi_20
+  - first:
+      213: 3615261930438109638
+    second: NewControllerBasedUi_21
+  - first:
+      213: 6579976755248005786
+    second: NewControllerBasedUi_22
+  - first:
+      213: -4672603305717495926
+    second: NewControllerBasedUi_23
+  - first:
+      213: 2257998383769050782
+    second: NewControllerBasedUi_24
+  - first:
+      213: -2905704781207245252
+    second: NewControllerBasedUi_25
+  - first:
+      213: -5117295995684488841
+    second: NewControllerBasedUi_26
+  - first:
+      213: -542742556953721702
+    second: NewControllerBasedUi_27
+  - first:
+      213: -3926342546539021216
+    second: NewControllerBasedUi_28
+  - first:
+      213: -5047566344212889782
+    second: NewControllerBasedUi_29
+  - first:
+      213: -8827511766656662795
+    second: NewControllerBasedUi_30
+  - first:
+      213: -1237662231181835151
+    second: NewControllerBasedUi_31
+  - first:
+      213: -5928677562833589656
+    second: NewControllerBasedUi_32
+  - first:
+      213: -502369723507999107
+    second: NewControllerBasedUi_33
+  - first:
+      213: 6349888359224067858
+    second: NewControllerBasedUi_34
+  - first:
+      213: -6998686953163035556
+    second: NewControllerBasedUi_35
+  - first:
+      213: -6816693411849585629
+    second: NewControllerBasedUi_36
+  - first:
+      213: 6666467251744940773
+    second: NewControllerBasedUi_37
+  - first:
+      213: -8529548015228185585
+    second: NewControllerBasedUi_38
+  - first:
+      213: 6332306178862995177
+    second: NewControllerBasedUi_39
+  - first:
+      213: 3483618896069748920
+    second: NewControllerBasedUi_40
+  - first:
+      213: -6326521181670600419
+    second: NewControllerBasedUi_41
+  - first:
+      213: 1408832876613478586
+    second: NewControllerBasedUi_42
+  - first:
+      213: 3506541176627516995
+    second: NewControllerBasedUi_43
+  - first:
+      213: -4388301889160797317
+    second: NewControllerBasedUi_44
+  - first:
+      213: 9185153550786539284
+    second: NewControllerBasedUi_45
+  - first:
+      213: 6311047634410403497
+    second: NewControllerBasedUi_46
+  - first:
+      213: -5117856625016518430
+    second: NewControllerBasedUi_47
+  - first:
+      213: 7463794016907369379
+    second: NewControllerBasedUi_48
+  - first:
+      213: 2233183333021318067
+    second: NewControllerBasedUi_49
+  - first:
+      213: 8627511304094380318
+    second: NewControllerBasedUi_50
+  - first:
+      213: 6692480071185344778
+    second: NewControllerBasedUi_51
+  - first:
+      213: -7224083956064635293
+    second: NewControllerBasedUi_52
+  - first:
+      213: -5976693494522387836
+    second: NewControllerBasedUi_53
+  - first:
+      213: -1233494787092651728
+    second: NewControllerBasedUi_54
+  - first:
+      213: 2232395010369527076
+    second: NewControllerBasedUi_55
+  - first:
+      213: -6392436167086160240
+    second: NewControllerBasedUi_56
+  - first:
+      213: 5062342174811121375
+    second: NewControllerBasedUi_57
+  - first:
+      213: 1939743378875734456
+    second: NewControllerBasedUi_58
+  - first:
+      213: 2121927671037228933
+    second: NewControllerBasedUi_59
+  - first:
+      213: 228130852993515309
+    second: NewControllerBasedUi_60
+  - first:
+      213: -1420230227720184780
+    second: NewControllerBasedUi_61
+  - first:
+      213: 488023137289203373
+    second: NewControllerBasedUi_62
+  - first:
+      213: 8726000650650593686
+    second: NewControllerBasedUi_63
+  - first:
+      213: 6771483480097639508
+    second: NewControllerBasedUi_64
+  - first:
+      213: -6955245169214237526
+    second: NewControllerBasedUi_65
+  - first:
+      213: 4800066923221095363
+    second: NewControllerBasedUi_66
+  - first:
+      213: 1830954888940761052
+    second: NewControllerBasedUi_67
+  - first:
+      213: -5094398135132888408
+    second: NewControllerBasedUi_68
+  - first:
+      213: 4443040790002347144
+    second: NewControllerBasedUi_69
+  - first:
+      213: 8255395487155681705
+    second: NewControllerBasedUi_70
+  - first:
+      213: -5575816404853839858
+    second: NewControllerBasedUi_71
+  - first:
+      213: 2747293788113940587
+    second: NewControllerBasedUi_72
+  - first:
+      213: 4190728449289242267
+    second: NewControllerBasedUi_73
+  - first:
+      213: 2462157820280111430
+    second: NewControllerBasedUi_74
+  - first:
+      213: 6913645891642780842
+    second: NewControllerBasedUi_75
+  - first:
+      213: 2280563451230372069
+    second: NewControllerBasedUi_76
+  - first:
+      213: 8260544898945866578
+    second: NewControllerBasedUi_77
+  - first:
+      213: 5962762006731998051
+    second: NewControllerBasedUi_78
+  - first:
+      213: 5497631384806431631
+    second: NewControllerBasedUi_79
+  - first:
+      213: -6778885267527828319
+    second: NewControllerBasedUi_80
+  - first:
+      213: -1770136893221100919
+    second: NewControllerBasedUi_81
+  - first:
+      213: -1552655022384740943
+    second: NewControllerBasedUi_82
+  - first:
+      213: -5943057019472333365
+    second: NewControllerBasedUi_83
+  - first:
+      213: 8872353556969991662
+    second: NewControllerBasedUi_84
+  - first:
+      213: -5345261530872835381
+    second: NewControllerBasedUi_85
+  - first:
+      213: -28900453759546830
+    second: NewControllerBasedUi_86
+  - first:
+      213: 2652273799283521934
+    second: NewControllerBasedUi_87
+  - first:
+      213: -3742945175984436853
+    second: NewControllerBasedUi_88
+  - first:
+      213: 1421756364361849287
+    second: NewControllerBasedUi_89
+  - first:
+      213: 2171219094633491367
+    second: NewControllerBasedUi_90
+  - first:
+      213: -2784593437181976426
+    second: NewControllerBasedUi_91
+  - first:
+      213: -4242616407900376264
+    second: NewControllerBasedUi_92
+  - first:
+      213: 2070966944636427395
+    second: NewControllerBasedUi_93
+  - first:
+      213: 7894574824425597672
+    second: NewControllerBasedUi_94
+  - first:
+      213: -5068838638487944776
+    second: NewControllerBasedUi_95
+  - first:
+      213: -6863742936397500313
+    second: NewControllerBasedUi_96
+  - first:
+      213: 1847263331163013503
+    second: NewControllerBasedUi_97
+  - first:
+      213: 6825349613946778093
+    second: NewControllerBasedUi_98
+  - first:
+      213: 5132754002512738114
+    second: NewControllerBasedUi_99
+  - first:
+      213: -3519441986957605292
+    second: NewControllerBasedUi_100
+  - first:
+      213: 7149991652200357692
+    second: NewControllerBasedUi_101
+  - first:
+      213: 4699401212219020705
+    second: NewControllerBasedUi_102
+  - first:
+      213: 771277168380984781
+    second: NewControllerBasedUi_103
+  - first:
+      213: 6296462632824769722
+    second: NewControllerBasedUi_104
+  - first:
+      213: -714732872590815173
+    second: NewControllerBasedUi_105
+  - first:
+      213: -2124242201682431210
+    second: NewControllerBasedUi_106
+  - first:
+      213: -8163881539241392587
+    second: NewControllerBasedUi_107
+  - first:
+      213: 2221270599418206506
+    second: NewControllerBasedUi_108
+  - first:
+      213: -1168736206953070356
+    second: NewControllerBasedUi_109
+  - first:
+      213: -3934201087618955298
+    second: NewControllerBasedUi_110
+  - first:
+      213: 1876963484347028236
+    second: NewControllerBasedUi_111
+  - first:
+      213: 550611199394434143
+    second: NewControllerBasedUi_112
+  - first:
+      213: -2529630692949167775
+    second: NewControllerBasedUi_113
+  - first:
+      213: 1584176548700108681
+    second: NewControllerBasedUi_114
+  - first:
+      213: 1727490545979157478
+    second: NewControllerBasedUi_115
+  - first:
+      213: -2359413133959578283
+    second: NewControllerBasedUi_116
+  - first:
+      213: -8301209835940693607
+    second: NewControllerBasedUi_117
+  - first:
+      213: 5082503978731325891
+    second: NewControllerBasedUi_118
+  - first:
+      213: -8646101793181544174
+    second: NewControllerBasedUi_119
+  - first:
+      213: -669732826834310911
+    second: NewControllerBasedUi_120
+  - first:
+      213: -3729556219187641061
+    second: NewControllerBasedUi_121
+  - first:
+      213: -5967616003608866421
+    second: NewControllerBasedUi_122
+  - first:
+      213: -1980485541580980200
+    second: NewControllerBasedUi_123
+  - first:
+      213: 6801631414625343685
+    second: NewControllerBasedUi_124
+  - first:
+      213: -3050007355258674554
+    second: NewControllerBasedUi_125
+  - first:
+      213: 7825181992339372897
+    second: NewControllerBasedUi_126
+  - first:
+      213: -1495840045276333536
+    second: NewControllerBasedUi_127
+  - first:
+      213: -3487683552590719705
+    second: NewControllerBasedUi_128
+  - first:
+      213: -253848324645382253
+    second: NewControllerBasedUi_129
+  - first:
+      213: -1762420992823636862
+    second: NewControllerBasedUi_130
+  - first:
+      213: -3672750818185467610
+    second: NewControllerBasedUi_131
+  - first:
+      213: 7033576017960957814
+    second: NewControllerBasedUi_132
+  - first:
+      213: 2909319792692526439
+    second: NewControllerBasedUi_133
+  - first:
+      213: 568741206844524934
+    second: NewControllerBasedUi_134
+  - first:
+      213: -4293977451913382023
+    second: NewControllerBasedUi_135
+  - first:
+      213: -6064447096233322214
+    second: NewControllerBasedUi_136
+  - first:
+      213: -6363552403155770568
+    second: NewControllerBasedUi_137
+  - first:
+      213: -7416899230267700112
+    second: NewControllerBasedUi_138
+  - first:
+      213: -306018554652513359
+    second: NewControllerBasedUi_139
+  - first:
+      213: 6193349239023643232
+    second: NewControllerBasedUi_140
+  - first:
+      213: 2236868968992725498
+    second: NewControllerBasedUi_141
+  - first:
+      213: 4210762601628064893
+    second: NewControllerBasedUi_142
+  - first:
+      213: -8857755517940701653
+    second: NewControllerBasedUi_143
+  - first:
+      213: 5144687193521948368
+    second: NewControllerBasedUi_144
+  - first:
+      213: -3906443884677420666
+    second: NewControllerBasedUi_145
+  - first:
+      213: 2907817909859358819
+    second: NewControllerBasedUi_146
+  - first:
+      213: 1731060558479815135
+    second: NewControllerBasedUi_147
+  - first:
+      213: 3749919162569404638
+    second: NewControllerBasedUi_148
+  - first:
+      213: 7279826871193548249
+    second: NewControllerBasedUi_149
+  - first:
+      213: 5357200767333397729
+    second: NewControllerBasedUi_150
+  - first:
+      213: 2735444843217503304
+    second: NewControllerBasedUi_151
+  - first:
+      213: -1591210873967938395
+    second: NewControllerBasedUi_152
+  - first:
+      213: 4883167402910143728
+    second: NewControllerBasedUi_153
+  - first:
+      213: 4301251376574017503
+    second: NewControllerBasedUi_154
+  - first:
+      213: 7231145004875176451
+    second: NewControllerBasedUi_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewControllerBasedUi_0
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 2759
+        width: 1240
+        height: 781
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82663efb655fe9f0800000000000000
+      internalID: -437036716516810099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_1
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 2845
+        width: 1824
+        height: 1061
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff14347b7e2a9a20800000000000000
+      internalID: 3069817203771842549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_8
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 1855
+        width: 1617
+        height: 905
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269ea9d7bbc281b80800000000000000
+      internalID: -8423933919218701982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_19
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 2188
+        width: 154
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d809052bf19e8bb40800000000000000
+      internalID: 5456367270904238221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2171
+        height: 2454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61333d7e8fc2582e0800000000000000
+      internalID: -2124242201682431210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_117
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 1542
+        width: 171
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999b6cac2ad2ccc80800000000000000
+      internalID: -8301209835940693607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_118
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 1649
+        width: 291
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c94acdb07ea88640800000000000000
+      internalID: 5082503978731325891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_121
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1605
+        width: 215
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15c871f064fd3cc0800000000000000
+      internalID: -3729556219187641061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_122
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 1730
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8115fcccd4ce2da0800000000000000
+      internalID: -5967616003608866421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_123
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 1150
+        width: 1027
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810c44b94e6e384e0800000000000000
+      internalID: -1980485541580980200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_124
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 756
+        width: 566
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c891e92cbf346e50800000000000000
+      internalID: 6801631414625343685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_125
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 835
+        width: 821
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6826a7358723ca5d0800000000000000
+      internalID: -3050007355258674554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_126
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 415
+        width: 863
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bfb2cff81a89c60800000000000000
+      internalID: 7825181992339372897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_127
+      rect:
+        serializedVersion: 2
+        x: 5638
+        y: 14
+        width: 2036
+        height: 1535
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aff747765bd3be0800000000000000
+      internalID: -1495840045276333536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_130
+      rect:
+        serializedVersion: 2
+        x: 7628
+        y: 766
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4e0ad17f9a87e0800000000000000
+      internalID: -1762420992823636862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_136
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 179
+        width: 376
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a191ddd2f71c6dba0800000000000000
+      internalID: -6064447096233322214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_139
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 219
+        width: 300
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2243febdc0cbf0800000000000000
+      internalID: -306018554652513359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewControllerBasedUi_140
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 256
+        width: 253
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa0f1b15233f550800000000000000
+      internalID: 6193349239023643232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 472c1c042fb500e4cbf380c309ef1fc8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NewControllerBasedUi_0: -437036716516810099
+      NewControllerBasedUi_1: 3069817203771842549
+      NewControllerBasedUi_10: 3209307421073309367
+      NewControllerBasedUi_100: -3519441986957605292
+      NewControllerBasedUi_101: 7149991652200357692
+      NewControllerBasedUi_102: 4699401212219020705
+      NewControllerBasedUi_103: 771277168380984781
+      NewControllerBasedUi_104: 6296462632824769722
+      NewControllerBasedUi_105: -714732872590815173
+      NewControllerBasedUi_106: -2124242201682431210
+      NewControllerBasedUi_107: -8163881539241392587
+      NewControllerBasedUi_108: 2221270599418206506
+      NewControllerBasedUi_109: -1168736206953070356
+      NewControllerBasedUi_11: -3909670715165185996
+      NewControllerBasedUi_110: -3934201087618955298
+      NewControllerBasedUi_111: 1876963484347028236
+      NewControllerBasedUi_112: 550611199394434143
+      NewControllerBasedUi_113: -2529630692949167775
+      NewControllerBasedUi_114: 1584176548700108681
+      NewControllerBasedUi_115: 1727490545979157478
+      NewControllerBasedUi_116: -2359413133959578283
+      NewControllerBasedUi_117: -8301209835940693607
+      NewControllerBasedUi_118: 5082503978731325891
+      NewControllerBasedUi_119: -8646101793181544174
+      NewControllerBasedUi_12: 2041718421984269583
+      NewControllerBasedUi_120: -669732826834310911
+      NewControllerBasedUi_121: -3729556219187641061
+      NewControllerBasedUi_122: -5967616003608866421
+      NewControllerBasedUi_123: -1980485541580980200
+      NewControllerBasedUi_124: 6801631414625343685
+      NewControllerBasedUi_125: -3050007355258674554
+      NewControllerBasedUi_126: 7825181992339372897
+      NewControllerBasedUi_127: -1495840045276333536
+      NewControllerBasedUi_128: -3487683552590719705
+      NewControllerBasedUi_129: -253848324645382253
+      NewControllerBasedUi_13: -2359221043661913640
+      NewControllerBasedUi_130: -1762420992823636862
+      NewControllerBasedUi_131: -3672750818185467610
+      NewControllerBasedUi_132: 7033576017960957814
+      NewControllerBasedUi_133: 2909319792692526439
+      NewControllerBasedUi_134: 568741206844524934
+      NewControllerBasedUi_135: -4293977451913382023
+      NewControllerBasedUi_136: -6064447096233322214
+      NewControllerBasedUi_137: -6363552403155770568
+      NewControllerBasedUi_138: -7416899230267700112
+      NewControllerBasedUi_139: -306018554652513359
+      NewControllerBasedUi_14: 4240830668016541106
+      NewControllerBasedUi_140: 6193349239023643232
+      NewControllerBasedUi_141: 2236868968992725498
+      NewControllerBasedUi_142: 4210762601628064893
+      NewControllerBasedUi_143: -8857755517940701653
+      NewControllerBasedUi_144: 5144687193521948368
+      NewControllerBasedUi_145: -3906443884677420666
+      NewControllerBasedUi_146: 2907817909859358819
+      NewControllerBasedUi_147: 1731060558479815135
+      NewControllerBasedUi_148: 3749919162569404638
+      NewControllerBasedUi_149: 7279826871193548249
+      NewControllerBasedUi_15: 6338797066281356865
+      NewControllerBasedUi_150: 5357200767333397729
+      NewControllerBasedUi_151: 2735444843217503304
+      NewControllerBasedUi_152: -1591210873967938395
+      NewControllerBasedUi_153: 4883167402910143728
+      NewControllerBasedUi_154: 4301251376574017503
+      NewControllerBasedUi_155: 7231145004875176451
+      NewControllerBasedUi_16: 1901876695053558937
+      NewControllerBasedUi_17: 4286290613555782557
+      NewControllerBasedUi_18: -1995272342178402991
+      NewControllerBasedUi_19: 5456367270904238221
+      NewControllerBasedUi_2: -404455326945997969
+      NewControllerBasedUi_20: 4313727279784840081
+      NewControllerBasedUi_21: 3615261930438109638
+      NewControllerBasedUi_22: 6579976755248005786
+      NewControllerBasedUi_23: -4672603305717495926
+      NewControllerBasedUi_24: 2257998383769050782
+      NewControllerBasedUi_25: -2905704781207245252
+      NewControllerBasedUi_26: -5117295995684488841
+      NewControllerBasedUi_27: -542742556953721702
+      NewControllerBasedUi_28: -3926342546539021216
+      NewControllerBasedUi_29: -5047566344212889782
+      NewControllerBasedUi_3: -3418472348031806063
+      NewControllerBasedUi_30: -8827511766656662795
+      NewControllerBasedUi_31: -1237662231181835151
+      NewControllerBasedUi_32: -5928677562833589656
+      NewControllerBasedUi_33: -502369723507999107
+      NewControllerBasedUi_34: 6349888359224067858
+      NewControllerBasedUi_35: -6998686953163035556
+      NewControllerBasedUi_36: -6816693411849585629
+      NewControllerBasedUi_37: 6666467251744940773
+      NewControllerBasedUi_38: -8529548015228185585
+      NewControllerBasedUi_39: 6332306178862995177
+      NewControllerBasedUi_4: -8453782221042506267
+      NewControllerBasedUi_40: 3483618896069748920
+      NewControllerBasedUi_41: -6326521181670600419
+      NewControllerBasedUi_42: 1408832876613478586
+      NewControllerBasedUi_43: 3506541176627516995
+      NewControllerBasedUi_44: -4388301889160797317
+      NewControllerBasedUi_45: 9185153550786539284
+      NewControllerBasedUi_46: 6311047634410403497
+      NewControllerBasedUi_47: -5117856625016518430
+      NewControllerBasedUi_48: 7463794016907369379
+      NewControllerBasedUi_49: 2233183333021318067
+      NewControllerBasedUi_5: -7770969501784975467
+      NewControllerBasedUi_50: 8627511304094380318
+      NewControllerBasedUi_51: 6692480071185344778
+      NewControllerBasedUi_52: -7224083956064635293
+      NewControllerBasedUi_53: -5976693494522387836
+      NewControllerBasedUi_54: -1233494787092651728
+      NewControllerBasedUi_55: 2232395010369527076
+      NewControllerBasedUi_56: -6392436167086160240
+      NewControllerBasedUi_57: 5062342174811121375
+      NewControllerBasedUi_58: 1939743378875734456
+      NewControllerBasedUi_59: 2121927671037228933
+      NewControllerBasedUi_6: 2813354684370668241
+      NewControllerBasedUi_60: 228130852993515309
+      NewControllerBasedUi_61: -1420230227720184780
+      NewControllerBasedUi_62: 488023137289203373
+      NewControllerBasedUi_63: 8726000650650593686
+      NewControllerBasedUi_64: 6771483480097639508
+      NewControllerBasedUi_65: -6955245169214237526
+      NewControllerBasedUi_66: 4800066923221095363
+      NewControllerBasedUi_67: 1830954888940761052
+      NewControllerBasedUi_68: -5094398135132888408
+      NewControllerBasedUi_69: 4443040790002347144
+      NewControllerBasedUi_7: -3090274891774818513
+      NewControllerBasedUi_70: 8255395487155681705
+      NewControllerBasedUi_71: -5575816404853839858
+      NewControllerBasedUi_72: 2747293788113940587
+      NewControllerBasedUi_73: 4190728449289242267
+      NewControllerBasedUi_74: 2462157820280111430
+      NewControllerBasedUi_75: 6913645891642780842
+      NewControllerBasedUi_76: 2280563451230372069
+      NewControllerBasedUi_77: 8260544898945866578
+      NewControllerBasedUi_78: 5962762006731998051
+      NewControllerBasedUi_79: 5497631384806431631
+      NewControllerBasedUi_8: -8423933919218701982
+      NewControllerBasedUi_80: -6778885267527828319
+      NewControllerBasedUi_81: -1770136893221100919
+      NewControllerBasedUi_82: -1552655022384740943
+      NewControllerBasedUi_83: -5943057019472333365
+      NewControllerBasedUi_84: 8872353556969991662
+      NewControllerBasedUi_85: -5345261530872835381
+      NewControllerBasedUi_86: -28900453759546830
+      NewControllerBasedUi_87: 2652273799283521934
+      NewControllerBasedUi_88: -3742945175984436853
+      NewControllerBasedUi_89: 1421756364361849287
+      NewControllerBasedUi_9: 8511320253607999737
+      NewControllerBasedUi_90: 2171219094633491367
+      NewControllerBasedUi_91: -2784593437181976426
+      NewControllerBasedUi_92: -4242616407900376264
+      NewControllerBasedUi_93: 2070966944636427395
+      NewControllerBasedUi_94: 7894574824425597672
+      NewControllerBasedUi_95: -5068838638487944776
+      NewControllerBasedUi_96: -6863742936397500313
+      NewControllerBasedUi_97: 1847263331163013503
+      NewControllerBasedUi_98: 6825349613946778093
+      NewControllerBasedUi_99: 5132754002512738114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

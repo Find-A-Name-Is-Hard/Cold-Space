@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 0bb78d5a110c4514983abfe43b577dea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5297516207280863074
+    second: shootygameArt_UIWindows_0
+  - first:
+      213: -6374074851372181813
+    second: shootygameArt_UIWindows_1
+  - first:
+      213: -2944842138425639956
+    second: shootygameArt_UIWindows_2
+  - first:
+      213: 2982079881926418928
+    second: shootygameArt_UIWindows_3
+  - first:
+      213: -7565651209187597204
+    second: shootygameArt_UIWindows_4
+  - first:
+      213: -4070256910762352098
+    second: shootygameArt_UIWindows_5
+  - first:
+      213: -4201282746116525447
+    second: shootygameArt_UIWindows_6
+  - first:
+      213: 7040343748702880411
+    second: shootygameArt_UIWindows_7
+  - first:
+      213: 8950610756573509461
+    second: shootygameArt_UIWindows_8
+  - first:
+      213: -7295656584080594114
+    second: shootygameArt_UIWindows_9
+  - first:
+      213: -253427369032467432
+    second: shootygameArt_UIWindows_10
+  - first:
+      213: 8459600673330057440
+    second: shootygameArt_UIWindows_11
+  - first:
+      213: 2764718294175467067
+    second: shootygameArt_UIWindows_12
+  - first:
+      213: 1672575640044949850
+    second: shootygameArt_UIWindows_13
+  - first:
+      213: -5735066916448012865
+    second: shootygameArt_UIWindows_14
+  - first:
+      213: -104642958879762683
+    second: shootygameArt_UIWindows_15
+  - first:
+      213: 8479343789962152526
+    second: shootygameArt_UIWindows_16
+  - first:
+      213: -2514348808329845958
+    second: shootygameArt_UIWindows_17
+  - first:
+      213: 2729403916924138606
+    second: shootygameArt_UIWindows_18
+  - first:
+      213: -1477811489707572191
+    second: shootygameArt_UIWindows_19
+  - first:
+      213: -1924354240664864642
+    second: shootygameArt_UIWindows_20
+  - first:
+      213: 13191696713607545
+    second: shootygameArt_UIWindows_21
+  - first:
+      213: -4495706511491611835
+    second: shootygameArt_UIWindows_22
+  - first:
+      213: 6473869786204909384
+    second: shootygameArt_UIWindows_23
+  - first:
+      213: 755013568663852217
+    second: shootygameArt_UIWindows_24
+  - first:
+      213: -1172124549857738555
+    second: shootygameArt_UIWindows_25
+  - first:
+      213: -5062400802032425912
+    second: shootygameArt_UIWindows_26
+  - first:
+      213: 390960789683402337
+    second: shootygameArt_UIWindows_27
+  - first:
+      213: 6392379664247390643
+    second: shootygameArt_UIWindows_28
+  - first:
+      213: -7715551779283608249
+    second: shootygameArt_UIWindows_29
+  - first:
+      213: 7504949335543476957
+    second: shootygameArt_UIWindows_30
+  - first:
+      213: 4042341846305444405
+    second: shootygameArt_UIWindows_31
+  - first:
+      213: -92198310578177147
+    second: shootygameArt_UIWindows_32
+  - first:
+      213: 8091061551409641843
+    second: shootygameArt_UIWindows_33
+  - first:
+      213: -6025877325872443741
+    second: shootygameArt_UIWindows_34
+  - first:
+      213: 7254108105248879869
+    second: shootygameArt_UIWindows_35
+  - first:
+      213: -2206446546160624212
+    second: shootygameArt_UIWindows_36
+  - first:
+      213: 8448909189532178395
+    second: shootygameArt_UIWindows_37
+  - first:
+      213: 8385906518479251442
+    second: shootygameArt_UIWindows_38
+  - first:
+      213: 6945809212775530121
+    second: shootygameArt_UIWindows_39
+  - first:
+      213: -3533460300774509959
+    second: shootygameArt_UIWindows_40
+  - first:
+      213: -2070258539032852962
+    second: shootygameArt_UIWindows_41
+  - first:
+      213: 9169769395713046060
+    second: shootygameArt_UIWindows_42
+  - first:
+      213: -9115950207716416191
+    second: shootygameArt_UIWindows_43
+  - first:
+      213: -4698852523789068511
+    second: shootygameArt_UIWindows_44
+  - first:
+      213: 4289237159106578479
+    second: shootygameArt_UIWindows_45
+  - first:
+      213: 6024752109471363367
+    second: shootygameArt_UIWindows_46
+  - first:
+      213: -5061782339800652921
+    second: shootygameArt_UIWindows_47
+  - first:
+      213: -8323873541298844032
+    second: shootygameArt_UIWindows_48
+  - first:
+      213: -3763321196996601087
+    second: shootygameArt_UIWindows_49
+  - first:
+      213: -1350991966037517019
+    second: shootygameArt_UIWindows_50
+  - first:
+      213: -2566892705569224598
+    second: shootygameArt_UIWindows_51
+  - first:
+      213: 1561786113728054404
+    second: shootygameArt_UIWindows_52
+  - first:
+      213: -8344656639476542555
+    second: shootygameArt_UIWindows_53
+  - first:
+      213: -2998348114750987682
+    second: shootygameArt_UIWindows_54
+  - first:
+      213: 8485546780145866851
+    second: shootygameArt_UIWindows_55
+  - first:
+      213: -4181487977416841531
+    second: shootygameArt_UIWindows_56
+  - first:
+      213: -4461294426494122866
+    second: shootygameArt_UIWindows_57
+  - first:
+      213: -1900601523937360017
+    second: shootygameArt_UIWindows_58
+  - first:
+      213: -7179558876490461105
+    second: shootygameArt_UIWindows_59
+  - first:
+      213: 4968059350971311918
+    second: shootygameArt_UIWindows_60
+  - first:
+      213: 1403912424129183846
+    second: shootygameArt_UIWindows_61
+  - first:
+      213: -4588054170876215929
+    second: shootygameArt_UIWindows_62
+  - first:
+      213: -6803591119989999305
+    second: shootygameArt_UIWindows_63
+  - first:
+      213: 1267063350433363448
+    second: shootygameArt_UIWindows_64
+  - first:
+      213: -2232656578126990180
+    second: shootygameArt_UIWindows_65
+  - first:
+      213: -4691344262274633736
+    second: shootygameArt_UIWindows_66
+  - first:
+      213: 719590159955045948
+    second: shootygameArt_UIWindows_67
+  - first:
+      213: 1657736208914309405
+    second: shootygameArt_UIWindows_68
+  - first:
+      213: 7018133457119469345
+    second: shootygameArt_UIWindows_69
+  - first:
+      213: 7220840777170222805
+    second: shootygameArt_UIWindows_70
+  - first:
+      213: -61709530006244755
+    second: shootygameArt_UIWindows_71
+  - first:
+      213: -7268892437812396438
+    second: shootygameArt_UIWindows_72
+  - first:
+      213: 3309512951980777890
+    second: shootygameArt_UIWindows_73
+  - first:
+      213: -1754135396587383371
+    second: shootygameArt_UIWindows_74
+  - first:
+      213: -2399355379932793814
+    second: shootygameArt_UIWindows_75
+  - first:
+      213: 5680704914582806148
+    second: shootygameArt_UIWindows_76
+  - first:
+      213: -8758473259898671456
+    second: shootygameArt_UIWindows_77
+  - first:
+      213: 4838405726697694974
+    second: shootygameArt_UIWindows_78
+  - first:
+      213: -3696182553529266604
+    second: shootygameArt_UIWindows_79
+  - first:
+      213: -1945806761063337803
+    second: shootygameArt_UIWindows_80
+  - first:
+      213: -6599513372655935170
+    second: shootygameArt_UIWindows_81
+  - first:
+      213: 8007331756374467699
+    second: shootygameArt_UIWindows_82
+  - first:
+      213: -2014787599250521149
+    second: shootygameArt_UIWindows_83
+  - first:
+      213: 7709484593584581952
+    second: shootygameArt_UIWindows_84
+  - first:
+      213: 5142717592145913711
+    second: shootygameArt_UIWindows_85
+  - first:
+      213: 1922300100833738928
+    second: shootygameArt_UIWindows_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 424
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shootygameArt_UIWindows_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2753
+        width: 1908
+        height: 1514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e984621b3117b76b0800000000000000
+      internalID: -5297516207280863074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootygameArt_UIWindows_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1303
+        width: 1853
+        height: 1324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d538a1bcba87a0800000000000000
+      internalID: -6374074851372181813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootygameArt_UIWindows_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 167
+        width: 1748
+        height: 1155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 6}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb9837da1d127d0800000000000000
+      internalID: -2944842138425639956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootygameArt_UIWindows_3
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 1249
+        width: 1902
+        height: 3071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f120165ad9726920800000000000000
+      internalID: 2982079881926418928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootygameArt_UIWindows_4
+      rect:
+        serializedVersion: 2
+        x: 5654
+        y: 88
+        width: 1878
+        height: 1146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c646edd4f48610790800000000000000
+      internalID: -7565651209187597204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      shootygameArt_UIWindows_0: -5297516207280863074
+      shootygameArt_UIWindows_1: -6374074851372181813
+      shootygameArt_UIWindows_10: -253427369032467432
+      shootygameArt_UIWindows_11: 8459600673330057440
+      shootygameArt_UIWindows_12: 2764718294175467067
+      shootygameArt_UIWindows_13: 1672575640044949850
+      shootygameArt_UIWindows_14: -5735066916448012865
+      shootygameArt_UIWindows_15: -104642958879762683
+      shootygameArt_UIWindows_16: 8479343789962152526
+      shootygameArt_UIWindows_17: -2514348808329845958
+      shootygameArt_UIWindows_18: 2729403916924138606
+      shootygameArt_UIWindows_19: -1477811489707572191
+      shootygameArt_UIWindows_2: -2944842138425639956
+      shootygameArt_UIWindows_20: -1924354240664864642
+      shootygameArt_UIWindows_21: 13191696713607545
+      shootygameArt_UIWindows_22: -4495706511491611835
+      shootygameArt_UIWindows_23: 6473869786204909384
+      shootygameArt_UIWindows_24: 755013568663852217
+      shootygameArt_UIWindows_25: -1172124549857738555
+      shootygameArt_UIWindows_26: -5062400802032425912
+      shootygameArt_UIWindows_27: 390960789683402337
+      shootygameArt_UIWindows_28: 6392379664247390643
+      shootygameArt_UIWindows_29: -7715551779283608249
+      shootygameArt_UIWindows_3: 2982079881926418928
+      shootygameArt_UIWindows_30: 7504949335543476957
+      shootygameArt_UIWindows_31: 4042341846305444405
+      shootygameArt_UIWindows_32: -92198310578177147
+      shootygameArt_UIWindows_33: 8091061551409641843
+      shootygameArt_UIWindows_4: -7565651209187597204
+      shootygameArt_UIWindows_5: -4070256910762352098
+      shootygameArt_UIWindows_6: -4201282746116525447
+      shootygameArt_UIWindows_7: 7040343748702880411
+      shootygameArt_UIWindows_8: 8950610756573509461
+      shootygameArt_UIWindows_9: -7295656584080594114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6416619878945239070
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5900141877236069583}
+  - component: {fileID: 6338678554558493999}
+  m_Layer: 0
+  m_Name: ProjectileWeapon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5900141877236069583
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6416619878945239070}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6338678554558493999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6416619878945239070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f79c77aaa109f48a18f0615bf1e1e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_WeaponType: 4
+  m_Bullet: {fileID: 3160993235498066840, guid: df6c33db8fb4fb5498c981315d3463d6, type: 3}
+  m_BulletData:
+  - m_StartOffset: {x: 0, y: 1, z: 0}
+    m_ControllPointOffset: {x: 4, y: 4, z: 0}
+    m_EndPointOffset: {x: 0, y: 7, z: 0}
+  - m_StartOffset: {x: 0, y: 1, z: 0}
+    m_ControllPointOffset: {x: 1, y: 4, z: 0}
+    m_EndPointOffset: {x: 0, y: 7, z: 0}
+  - m_StartOffset: {x: 0, y: 1, z: 0}
+    m_ControllPointOffset: {x: -1, y: 4, z: 0}
+    m_EndPointOffset: {x: 0, y: 7, z: 0}
+  - m_StartOffset: {x: 0, y: 1, z: 0}
+    m_ControllPointOffset: {x: -4, y: 4, z: 0}
+    m_EndPointOffset: {x: 0, y: 7, z: 0}
+  m_CoolingTime: 0.3

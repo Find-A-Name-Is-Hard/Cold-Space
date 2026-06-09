@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2cd5fab8fa3a6429fd049685700ca9, type: 3}
+  m_Name: Bang
+  m_EditorClassIdentifier: 
+  BulletPrefab: {fileID: 1563709441579392486, guid: 7c7f77a069b54d84192712b044f1cd0f, type: 3}
+  startPos: {x: 2, y: 4}
+  endPos: {x: -2, y: 4}
+  lineDrift: {x: 0, y: 0}
+  lineNoise: {x: 0, y: 0}
+  placementNoise: 4
+  aimSpeed: 0
+  projectileAngleVector: {x: 0, y: -1}
+  Count: 2
+  SpawnInterval: 6

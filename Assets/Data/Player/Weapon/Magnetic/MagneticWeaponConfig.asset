@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7df5181ac3607de4c87fa2d3adc58106, type: 3}
+  m_Name: MagneticWeaponConfig
+  m_EditorClassIdentifier: 
+  m_Bullet: {fileID: 4844539575398415926, guid: d59dc5e8dd7aa734e8b03c20b1cd4d3a, type: 3}
+  m_Offset: 1
+  m_RandomAngleRange: 45
+  m_CoolingTime: 0.1

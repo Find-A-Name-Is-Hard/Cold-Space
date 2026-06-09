@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 89afa673ceab58945846e3b6cb9574a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4785243481913760200
+    second: enemySpriteWithBlinks_0
+  - first:
+      213: -3408402254166174979
+    second: enemySpriteWithBlinks_1
+  - first:
+      213: -837188119309603470
+    second: enemySpriteWithBlinks_2
+  - first:
+      213: -4581094597428171744
+    second: enemySpriteWithBlinks_3
+  - first:
+      213: 2545795946129809711
+    second: enemySpriteWithBlinks_4
+  - first:
+      213: -6241394163795269148
+    second: enemySpriteWithBlinks_5
+  - first:
+      213: 3185696348039905173
+    second: enemySpriteWithBlinks_6
+  - first:
+      213: 8233287420251261346
+    second: enemySpriteWithBlinks_7
+  - first:
+      213: 4363489186596135197
+    second: enemySpriteWithBlinks_8
+  - first:
+      213: 3019078054669810445
+    second: enemySpriteWithBlinks_9
+  - first:
+      213: -2391830519202696902
+    second: enemySpriteWithBlinks_10
+  - first:
+      213: 3813702549900874535
+    second: enemySpriteWithBlinks_11
+  - first:
+      213: 4619716333308985904
+    second: enemySpriteWithBlinks_12
+  - first:
+      213: -6932384294526958029
+    second: enemySpriteWithBlinks_13
+  - first:
+      213: 6041509576709265352
+    second: enemySpriteWithBlinks_14
+  - first:
+      213: -7547863077685679047
+    second: enemySpriteWithBlinks_15
+  - first:
+      213: -1153458841925495292
+    second: enemySpriteWithBlinks_16
+  - first:
+      213: -7812634338816391307
+    second: enemySpriteWithBlinks_17
+  - first:
+      213: 6179867767398868034
+    second: enemySpriteWithBlinks_18
+  - first:
+      213: -4992562180416302789
+    second: enemySpriteWithBlinks_19
+  - first:
+      213: 6150233638500621857
+    second: enemySpriteWithBlinks_20
+  - first:
+      213: 4951836770046682353
+    second: enemySpriteWithBlinks_21
+  - first:
+      213: 1709011498441012753
+    second: enemySpriteWithBlinks_22
+  - first:
+      213: 1244569271136492478
+    second: enemySpriteWithBlinks_23
+  - first:
+      213: 725512287306971025
+    second: enemySpriteWithBlinks_24
+  - first:
+      213: -64504375551979869
+    second: enemySpriteWithBlinks_25
+  - first:
+      213: -1129891632104306171
+    second: enemySpriteWithBlinks_26
+  - first:
+      213: 111040153349505983
+    second: enemySpriteWithBlinks_27
+  - first:
+      213: 4250912093197013318
+    second: enemySpriteWithBlinks_28
+  - first:
+      213: 2445961817751471223
+    second: enemySpriteWithBlinks_29
+  - first:
+      213: -592155334325325310
+    second: enemySpriteWithBlinks_30
+  - first:
+      213: 7845339214810278525
+    second: enemySpriteWithBlinks_31
+  - first:
+      213: 2704427779622314804
+    second: enemySpriteWithBlinks_32
+  - first:
+      213: 8581596320688411184
+    second: enemySpriteWithBlinks_33
+  - first:
+      213: 1003093150945718536
+    second: enemySpriteWithBlinks_34
+  - first:
+      213: 2703843579747430831
+    second: enemySpriteWithBlinks_35
+  - first:
+      213: -3094747545731488694
+    second: enemySpriteWithBlinks_36
+  - first:
+      213: -6616997442568045529
+    second: enemySpriteWithBlinks_37
+  - first:
+      213: -7108335045767205757
+    second: enemySpriteWithBlinks_38
+  - first:
+      213: -1984302232562373518
+    second: enemySpriteWithBlinks_39
+  - first:
+      213: -7315712470867568595
+    second: enemySpriteWithBlinks_40
+  - first:
+      213: 3262911544199086081
+    second: enemySpriteWithBlinks_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EyeWhites
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 1031
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9193fe799986240800000000000000
+      internalID: 4785243481913760200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemySpriteWithEyeHoles
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 699
+        width: 1521
+        height: 1332
+      alignment: 9
+      pivot: {x: 0.44140637, y: 0.49775797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27daf5257d5b164f0800000000000000
+      internalID: -837188119309603470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkUpper
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1613
+        width: 299
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c25dd3cbeac60c0800000000000000
+      internalID: -4581094597428171744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkLeft
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1278
+        width: 345
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2162bfbceb745320800000000000000
+      internalID: 2545795946129809711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkMiddle
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 895
+        width: 344
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9c4c17943824270800000000000000
+      internalID: 8233287420251261346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlinkRight
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 552
+        width: 417
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57784d24672f39390800000000000000
+      internalID: -7812634338816391307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye1
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 35
+        width: 126
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c301462e3bb24a0800000000000000
+      internalID: -6616997442568045529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye2
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 68
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ce59cffee1a5d90800000000000000
+      internalID: -7108335045767205757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye3
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 26
+        width: 132
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cea1df1a75674e0800000000000000
+      internalID: -1984302232562373518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye4
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 45
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100028503c0384d20800000000000000
+      internalID: 3262911544199086081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ac8e5ea6a9699984bb3e64bbb8200654
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlinkLeft: 2545795946129809711
+      BlinkMiddle: 8233287420251261346
+      BlinkRight: -7812634338816391307
+      BlinkUpper: -4581094597428171744
+      EnemySpriteWithEyeHoles: -837188119309603470
+      Eye1: -6616997442568045529
+      Eye2: -7108335045767205757
+      Eye3: -1984302232562373518
+      Eye4: 3262911544199086081
+      EyeWhites: 4785243481913760200
+      enemySpriteWithBlinks_1: -3408402254166174979
+      enemySpriteWithBlinks_10: -2391830519202696902
+      enemySpriteWithBlinks_11: 3813702549900874535
+      enemySpriteWithBlinks_12: 4619716333308985904
+      enemySpriteWithBlinks_13: -6932384294526958029
+      enemySpriteWithBlinks_14: 6041509576709265352
+      enemySpriteWithBlinks_15: -7547863077685679047
+      enemySpriteWithBlinks_16: -1153458841925495292
+      enemySpriteWithBlinks_18: 6179867767398868034
+      enemySpriteWithBlinks_19: -4992562180416302789
+      enemySpriteWithBlinks_20: 6150233638500621857
+      enemySpriteWithBlinks_21: 4951836770046682353
+      enemySpriteWithBlinks_22: 1709011498441012753
+      enemySpriteWithBlinks_23: 1244569271136492478
+      enemySpriteWithBlinks_24: 725512287306971025
+      enemySpriteWithBlinks_25: -64504375551979869
+      enemySpriteWithBlinks_26: -1129891632104306171
+      enemySpriteWithBlinks_27: 111040153349505983
+      enemySpriteWithBlinks_28: 4250912093197013318
+      enemySpriteWithBlinks_29: 2445961817751471223
+      enemySpriteWithBlinks_30: -592155334325325310
+      enemySpriteWithBlinks_31: 7845339214810278525
+      enemySpriteWithBlinks_32: 2704427779622314804
+      enemySpriteWithBlinks_33: 8581596320688411184
+      enemySpriteWithBlinks_34: 1003093150945718536
+      enemySpriteWithBlinks_35: 2703843579747430831
+      enemySpriteWithBlinks_36: -3094747545731488694
+      enemySpriteWithBlinks_40: -7315712470867568595
+      enemySpriteWithBlinks_5: -6241394163795269148
+      enemySpriteWithBlinks_6: 3185696348039905173
+      enemySpriteWithBlinks_8: 4363489186596135197
+      enemySpriteWithBlinks_9: 3019078054669810445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
